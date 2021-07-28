@@ -1,0 +1,10 @@
+  
+UE
+
+Pasta [Maps] depreciada
+Usar [Levels] na Produção
+
+Pasta [Custom Gewometry] depreciada
+
+Pasta [Blueprints] depreciada
+Usar [Scripts] na Produção
