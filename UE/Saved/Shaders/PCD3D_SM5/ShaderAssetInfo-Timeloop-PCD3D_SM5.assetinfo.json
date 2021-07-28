@@ -168,7 +168,8 @@
 		{
 			"ShaderMapHash": "6CDD0D67BE2F0A1AEAFF29AA516B67EADD0D23CB",
 			"Assets": [
-				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset"
+				"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset",
+				"../../../../../../Projects/Timeloop/UE/Content/Geometry/TimeLoop/House/lambert1.uasset"
 			]
 		},
 		{
@@ -226,23 +227,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "690CD3A87E6E3402C536CD8B3E76DB388D8CBC9A",
-			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/Materials/Alpha.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "4FE3282AB0F6C2789225C1FD03EF54E56158CD16",
 			"Assets": [
 				"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "DA59E3F9447EC65312D6D854FE96C3EC75CF2113",
-			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/Materials/C12.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Materials/Wood.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Materials/Blue.uasset"
 			]
 		},
 		{
@@ -258,39 +245,76 @@
 			]
 		},
 		{
-			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
+			"ShaderMapHash": "690CD3A87E6E3402C536CD8B3E76DB388D8CBC9A",
 			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/Meshes/CubeMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
-			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/FirstPerson/Meshes/BaseMaterial.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
-			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
-			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
+				"../../../../../../Projects/Timeloop/UE/Content/Materials/Alpha.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "AD1F5A7FF559E5F44A60BD4833C2CF5FEB9AF446",
 			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/Materials/Glass.uasset"
+				"../../../../../../Projects/Timeloop/UE/Content/Materials/Glass.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DA59E3F9447EC65312D6D854FE96C3EC75CF2113",
+			"Assets": [
+				"../../../../../../Projects/Timeloop/UE/Content/Materials/Wood.uasset",
+				"../../../../../../Projects/Timeloop/UE/Content/Materials/C12.uasset",
+				"../../../../../../Projects/Timeloop/UE/Content/Materials/Blue.uasset",
+				"../../../../../../Projects/Timeloop/UE/Content/Geometry/TimeLoop/lambert1.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "62E4BDFC5A9EA0213436306B87B8BC6C4C14F371",
 			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/Assets/will_text_Mat.uasset"
+				"../../../../../../Projects/Timeloop/UE/Content/Assets/will_text_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C6D54895B9E1281698413E9BC3833382FE29DC21",
+			"Assets": [
+				"../../../../../../Projects/Timeloop/UE/Content/Geometry/Meshes/CubeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
+			"Assets": [
+				"../../../../../../Projects/Timeloop/UE/Content/FirstPerson/Meshes/BaseMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
+			"Assets": [
+				"../../../../../../Projects/Timeloop/UE/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
+			"Assets": [
+				"../../../../../../Projects/Timeloop/UE/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C9C7244A501EB6BBF9DB21E42B52F5FF5D6804A1",
+			"Assets": [
+				"../../../../../../Projects/Timeloop/UE/Content/Geometry/TimeLoop/House/wall_05_kitchen_bathroom_storeroom_texture.uasset",
+				"../../../../../../Projects/Timeloop/UE/Content/Geometry/TimeLoop/House/wall_03_and_04_texture.uasset",
+				"../../../../../../Projects/Timeloop/UE/Content/Geometry/TimeLoop/House/wall_01_and_02_texture.uasset",
+				"../../../../../../Projects/Timeloop/UE/Content/Geometry/TimeLoop/House/second_floor_rooms_texture.uasset",
+				"../../../../../../Projects/Timeloop/UE/Content/Geometry/TimeLoop/House/roof_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D6A01A71C110F778113B3763CFE03BB857C2656B",
+			"Assets": [
+				"../../../../../../Projects/Timeloop/UE/Content/Geometry/TimeLoop/House/second_floor_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AD3058810825BB855176512149010DB9967A8631",
+			"Assets": [
+				"../../../../../../Projects/Timeloop/UE/Content/Geometry/TimeLoop/House/first_floor_and_stairs_texture.uasset"
 			]
 		}
 	]
