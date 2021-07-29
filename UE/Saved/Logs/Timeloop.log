@@ -8888,3 +8888,16 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.29-14.03.24:778][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
 [2021.07.29-14.03.24:812][163]LogPlayLevel: Display: Destroying online subsystem :Context_13
 [2021.07.29-14.03.24:828][163]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2021.07.29-14.03.49:209][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.07.29-14.03.49:224][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/The_House_BuiltData" FILE="../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Levels/The_House_BuiltData.uasset" SILENT=true
+[2021.07.29-14.03.49:225][998]LogSavePackage: Moving '../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Saved/The_House_BuiltDataE43429DD4A8FFCB9FE9272927734E372.tmp' to '../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Levels/The_House_BuiltData.uasset'
+[2021.07.29-14.03.49:226][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-14.03.49:241][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.07.29-14.03.49:276][998]LogSavePackage: Moving '../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Saved/House_219835C38410E172E5C369783CE61A24A.tmp' to '../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Levels/House_2.umap'
+[2021.07.29-14.03.49:277][998]LogFileHelpers: Saving map 'House_2' took 0.051
+[2021.07.29-14.03.49:277][998]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2_BuiltData" FILE="../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Levels/House_2_BuiltData.uasset" SILENT=true
+[2021.07.29-14.03.49:323][998]LogSavePackage: Moving '../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Saved/House_2_BuiltDataF52DCD99435FBD6482C87EB97124C656.tmp' to '../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Levels/House_2_BuiltData.uasset'
+[2021.07.29-14.03.49:337][998]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-14.03.49:337][998]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/The_House_BuiltData.The_House_BuiltData
+[2021.07.29-14.03.49:337][998]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_2_BuiltData.House_2_BuiltData
+[2021.07.29-14.03.49:337][998]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
