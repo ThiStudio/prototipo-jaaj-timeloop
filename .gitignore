@@ -1,1 +1,6 @@
 UE/Saved/StagedBuilds/*
+UE/Intermediate/CachedAssetRegistry.bin
+UE/Saved/AutoScreenshot.png
+
+*.ini
+*.log
