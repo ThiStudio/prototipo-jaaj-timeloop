@@ -7219,3 +7219,1576 @@ Script Stack (0 frames):
 [2021.07.29-02.04.16:730][156]AssetCheck: New page: Asset Save: multiple assets
 [2021.07.29-02.04.16:730][156]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
 [2021.07.29-02.04.16:730][156]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.07.03:383][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lixo 1)
+[2021.07.29-02.07.40:126][585]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Furniture_sink_master)
+[2021.07.29-02.07.54:536][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.07.54:564][207]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2021.07.29-02.07.54:743][207]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_12D6A72A64419352F78CD8CA1EACC3EE6.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.07.54:746][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.07.54:830][207]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData62DE756F4774B076BC00999D62999BF7.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.07.54:845][207]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.07.54:845][207]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.07.54:845][207]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.08.23:762][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.08.23:788][413]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.07.29-02.08.23:964][413]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1073712724BE618BFBA5A79AF41F2F484.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.08.23:967][413]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.08.24:052][413]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData6D0654E541D7595A2989FFBBDB2DF7E2.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.08.24:068][413]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.08.24:068][413]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.08.24:068][413]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.08.25:864][483]MapCheck: New page: Verificação de Mapa
+[2021.07.29-02.08.25:881][483]Cmd: MAP REBUILD ALLVISIBLE
+[2021.07.29-02.08.25:882][483]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.07.29-02.08.26:001][483]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=false
+[2021.07.29-02.08.26:001][483]LogWorld: UWorld::CleanupWorld for House_1, bSessionEnded=true, bCleanupResources=false
+[2021.07.29-02.08.26:027][483]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.07.29-02.08.26:027][483]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.07.29-02.08.26:027][483]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.07.29-02.08.26:058][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.07.29-02.08.26:059][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:061][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:063][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:065][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:067][483]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.07.29-02.08.26:067][483]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 5
+[2021.07.29-02.08.26:067][483]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2021.07.29-02.08.26:067][483]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2021.07.29-02.08.26:067][483]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.07.29-02.08.26:067][483]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 1
+[2021.07.29-02.08.26:067][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:069][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:071][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:073][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:075][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:077][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:079][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:082][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:085][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:087][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:089][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:090][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:093][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:096][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:099][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:101][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:102][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:105][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.26:106][483]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.08.28:553][483]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 40
+[2021.07.29-02.08.28:553][483]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 39
+[2021.07.29-02.08.28:553][483]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 38
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 37
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 36
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 35
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 34
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 33
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 32
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 31
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 30
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 29
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 28
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 27
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 26
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 25
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 23
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 21
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 20
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 18
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 14
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 12
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 8
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 6
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 4
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.29-02.08.28:554][483]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.07.29-02.08.28:554][483]TextureStreamingBuild: Display: Compiling optional shaders took 2.495 seconds.
+[2021.07.29-02.08.28:563][483]LogLevel: Display: Export Material TexCoord Scales took 0.009 seconds.
+[2021.07.29-02.08.28:567][483]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2021.07.29-02.08.28:593][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.07.29-02.08.28:630][483]LightingResults: New page: Compilação de Iluminação - 28 de jul de 2021 20:08:28
+[2021.07.29-02.08.28:635][483]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.29-02.08.28:639][483]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.29-02.08.28:639][483]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.29-02.08.28:640][483]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.29-02.08.28:640][483]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15576
+[2021.07.29-02.08.33:211][483]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.07.29-02.08.33:212][483]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.29-02.08.33:212][483]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.29-02.08.33:212][483]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.29-02.08.33:212][483]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.29-02.08.33:212][483]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.29-02.08.33:371][483]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.07.29-02.08.33:371][483]MapCheck: New page: The_House - 28 de jul de 2021 20:08:33
+[2021.07.29-02.08.33:371][483]MapCheck: Error: WorldSettings O mapa precisa de recompilação de iluminação 
+[2021.07.29-02.08.33:372][483]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 0,989ms to complete.
+[2021.07.29-02.08.33:375][483]LogEditorBuildUtils: Build time 0:07
+[2021.07.29-02.08.33:648][485]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.07.29-02.08.37:914][587]Job is a success!
+[2021.07.29-02.08.38:118][588]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2021.07.29-02.08.38:118][588]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.07.29-02.08.38:118][588]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.07.29-02.08.38:118][588]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.29-02.08.38:118][588]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2021.07.29-02.08.38:118][588]LogVolumetricLightmapImport:          1: 3.3% covering 1.6% of volume
+[2021.07.29-02.08.38:118][588]LogVolumetricLightmapImport:          2: 93.3% covering 0.7% of volume
+[2021.07.29-02.08.38:118][588]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.29-02.08.38:118][588]LogVolumetricLightmapImport:          The_House 			 2 bricks 	 6.7% (Persistent Level)
+[2021.07.29-02.08.38:118][588]LogVolumetricLightmapImport:          House_1 			 28 bricks 	 93.3%
+[2021.07.29-02.08.38:184][588]LightingResults: Warning: PointLight3 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2021.07.29-02.08.38:184][588]LightingResults: Warning: PointLight5 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2021.07.29-02.08.38:185][588]LightingResults: Warning: PointLight6 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2021.07.29-02.08.38:185][588]LightingResults: Warning: PointLight7 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2021.07.29-02.08.38:185][588]LightingResults: Warning: PointLight8 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2021.07.29-02.08.38:461][588]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.07.29-02.08.38:461][588]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.07.29-02.08.38:461][588]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2021.07.29-02.08.38:461][588]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2021.07.29-02.08.38:461][588]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2021.07.29-02.08.38:461][588]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2021.07.29-02.08.38:661][588]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 32X32)
+[2021.07.29-02.08.38:739][588]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (BGRA8, 1024X1024)
+[2021.07.29-02.08.38:739][588]LogStaticLightingSystem: House_1_BuiltData storing lightmap data for 83 meshes in 5 LightmapResourceClusters (16.6 Meshes per cluster).
+[2021.07.29-02.08.38:772][588]Lightmass on DESKTOP-DUTAEH4: 4.37 sec total, 290 ms importing, 39 ms setup, 755 ms photons, 3.24 sec processing, 0 ms extra exporting [83/83 mappings]. Threads: 48.6 sec total, 20.9 sec processing.
+[2021.07.29-02.08.38:776][588]LogUObjectHash: Compacting FUObjectHashTables data took   2.56ms
+[2021.07.29-02.08.38:807][588]LogStaticLightingSystem: Illumination: 10.0 sec (316 ms encoding lightmaps, 231 ms encoding shadowmaps)
+[2021.07.29-02.08.38:807][588]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2021.07.29-02.08.38:807][588]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.07.29-02.08.39:219][588]DumpUnbuiltLightIteractions
+[2021.07.29-02.08.39:219][588]Lights with unbuilt interactions: 0
+[2021.07.29-02.08.39:219][588]
+[2021.07.29-02.08.39:219][588]Primitives with unbuilt interactions: 0
+[2021.07.29-02.08.39:308][588]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.29-02.08.39:377][589]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.29-02.08.39:377][589]MapCheck: New page: The_House - 28 de jul de 2021 20:08:39
+[2021.07.29-02.08.39:378][589]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,945ms to complete.
+[2021.07.29-02.08.43:731][773]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.08.43:739][773]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.08.43:739][773]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:08:43)
+[2021.07.29-02.08.43:739][773]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.08.43:741][773]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001872s)
+[2021.07.29-02.08.43:742][773]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.08.43:742][773]LogPlayLevel: PIE: World Init took: (0.001079s)
+[2021.07.29-02.08.43:742][773]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003111s)
+[2021.07.29-02.08.43:770][773]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.07.29-02.08.43:773][773]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2021.07.29-02.08.43:773][773]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.08.43:773][773]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.08.43:773][773]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.08.43:773][773]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.08.43:773][773]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.08.43:773][773]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.08.43:773][773]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.08.43:773][773]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.08.43:774][773]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.08.43:774][773]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.08.43:778][773]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.08.43:778][773]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.08.43:789][773]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.08.43:790][773]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.08.43:790][773]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.08.43:790][773]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.08.43:791][773]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.08.43:791][773]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.08.43:791][773]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.08.43:810][773]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.08.43:810][773]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.08.43:810][773]LogInit: FAudioDevice initialized.
+[2021.07.29-02.08.43:811][773]LogAudio: Display: Audio Device (ID: 22) registered with world 'The_House'.
+[2021.07.29-02.08.43:818][773]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.08.43:819][773]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.08.43
+[2021.07.29-02.08.43:819][773]LogWorld: Bringing up level for play took: 0.000429
+[2021.07.29-02.08.43:819][773]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.07.29-02.08.43:822][773]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.08.43:823][773]PIE: Servidor conectado
+[2021.07.29-02.08.43:824][773]PIE: Play in editor total start time 0,086 seconds.
+[2021.07.29-02.09.11:285][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.09.11:285][221]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.09.11:286][221]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.09.11:286][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.09.11:301][221]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.09.11:327][221]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.09.11:352][221]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.29-02.09.11:353][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.09.11:354][221]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.09.11:373][221]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.09.11:379][221]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.07.29-02.09.11:450][222]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.07.29-02.09.11:481][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.07.29-02.10.00:862][385]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (House_Base_character_room)
+[2021.07.29-02.10.22:374][348]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.10.22:381][348]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.10.22:381][348]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:10:22)
+[2021.07.29-02.10.22:382][348]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.10.22:384][348]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002094s)
+[2021.07.29-02.10.22:385][348]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.10.22:385][348]LogPlayLevel: PIE: World Init took: (0.001143s)
+[2021.07.29-02.10.22:385][348]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003371s)
+[2021.07.29-02.10.22:414][348]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.07.29-02.10.22:417][348]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2021.07.29-02.10.22:417][348]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.10.22:417][348]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.10.22:417][348]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.10.22:417][348]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.10.22:417][348]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.10.22:417][348]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.10.22:417][348]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.10.22:417][348]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.10.22:418][348]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.10.22:418][348]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.10.22:422][348]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.10.22:422][348]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.10.22:434][348]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.10.22:434][348]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.10.22:434][348]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.10.22:434][348]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.10.22:435][348]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.10.22:435][348]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.10.22:435][348]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.10.22:453][348]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.10.22:453][348]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.10.22:453][348]LogInit: FAudioDevice initialized.
+[2021.07.29-02.10.22:453][348]LogAudio: Display: Audio Device (ID: 23) registered with world 'The_House'.
+[2021.07.29-02.10.22:463][348]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.10.22:464][348]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.10.22
+[2021.07.29-02.10.22:464][348]LogWorld: Bringing up level for play took: 0.000585
+[2021.07.29-02.10.22:464][348]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.07.29-02.10.22:467][348]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.10.22:468][348]PIE: Servidor conectado
+[2021.07.29-02.10.22:468][348]PIE: Play in editor total start time 0,088 seconds.
+[2021.07.29-02.10.50:214][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.10.50:214][797]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.10.50:216][797]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.10.50:216][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.10.50:226][797]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.10.50:252][797]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.10.50:278][797]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.29-02.10.50:278][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.10.50:281][797]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.10.50:299][797]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.10.50:304][797]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.07.29-02.10.50:381][798]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.07.29-02.10.50:410][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.07.29-02.11.30:927][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.11.30:953][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.07.29-02.11.31:139][557]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_18956A6D04F50341BB6FAA6A228F94ECB.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.11.31:143][557]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.11.31:228][557]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData19318D434908FA937D86B59671DC2448.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.11.31:248][557]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.11.31:248][557]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.11.31:248][557]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.11.32:200][594]MapCheck: New page: Verificação de Mapa
+[2021.07.29-02.11.32:221][594]Cmd: MAP REBUILD ALLVISIBLE
+[2021.07.29-02.11.32:221][594]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.07.29-02.11.32:342][594]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=false
+[2021.07.29-02.11.32:342][594]LogWorld: UWorld::CleanupWorld for House_1, bSessionEnded=true, bCleanupResources=false
+[2021.07.29-02.11.32:365][594]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.07.29-02.11.32:365][594]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.07.29-02.11.32:365][594]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.07.29-02.11.32:396][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.07.29-02.11.32:398][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:401][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:403][594]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.07.29-02.11.32:403][594]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.07.29-02.11.32:403][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:405][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:407][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:409][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:411][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:413][594]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.07.29-02.11.32:413][594]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.07.29-02.11.32:413][594]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.07.29-02.11.32:413][594]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.07.29-02.11.32:414][594]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.07.29-02.11.32:414][594]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.07.29-02.11.32:414][594]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.07.29-02.11.32:414][594]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.07.29-02.11.32:414][594]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.07.29-02.11.32:414][594]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.07.29-02.11.32:414][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:416][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:419][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:422][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:425][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:428][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:430][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:433][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:435][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:437][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:439][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:442][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:444][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:447][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:449][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.32:451][594]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 34
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 33
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 32
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 31
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 30
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 28
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 27
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 25
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 24
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 23
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 22
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 20
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 19
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 18
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 17
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 15
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 14
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 13
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 9
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 6
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.29-02.11.34:951][594]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.07.29-02.11.34:952][594]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2021.07.29-02.11.34:952][594]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.07.29-02.11.34:952][594]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.29-02.11.34:952][594]TextureStreamingBuild: Display: Compiling optional shaders took 2.552 seconds.
+[2021.07.29-02.11.34:961][594]LogLevel: Display: Export Material TexCoord Scales took 0.009 seconds.
+[2021.07.29-02.11.34:965][594]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2021.07.29-02.11.34:991][594]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.07.29-02.11.35:025][594]LightingResults: New page: Compilação de Iluminação - 28 de jul de 2021 20:11:35
+[2021.07.29-02.11.35:032][594]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.29-02.11.35:036][594]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.29-02.11.35:036][594]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.29-02.11.35:037][594]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.29-02.11.35:037][594]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15576
+[2021.07.29-02.11.39:600][594]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.07.29-02.11.39:600][594]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.29-02.11.39:600][594]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.29-02.11.39:600][594]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.29-02.11.39:600][594]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.29-02.11.39:600][594]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.29-02.11.39:751][594]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.07.29-02.11.39:751][594]MapCheck: New page: The_House - 28 de jul de 2021 20:11:39
+[2021.07.29-02.11.39:752][594]MapCheck: Error: WorldSettings O mapa precisa de recompilação de iluminação 
+[2021.07.29-02.11.39:752][594]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1,042ms to complete.
+[2021.07.29-02.11.39:755][594]LogEditorBuildUtils: Build time 0:07
+[2021.07.29-02.11.40:024][596]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.07.29-02.11.43:864][686]Job is a success!
+[2021.07.29-02.11.44:075][688]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.013s
+[2021.07.29-02.11.44:075][688]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.07.29-02.11.44:075][688]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.07.29-02.11.44:075][688]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.29-02.11.44:075][688]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2021.07.29-02.11.44:075][688]LogVolumetricLightmapImport:          1: 3.3% covering 1.6% of volume
+[2021.07.29-02.11.44:075][688]LogVolumetricLightmapImport:          2: 93.3% covering 0.7% of volume
+[2021.07.29-02.11.44:075][688]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.29-02.11.44:075][688]LogVolumetricLightmapImport:          The_House 			 2 bricks 	 6.7% (Persistent Level)
+[2021.07.29-02.11.44:075][688]LogVolumetricLightmapImport:          House_1 			 28 bricks 	 93.3%
+[2021.07.29-02.11.44:422][688]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 1024X1024)
+[2021.07.29-02.11.44:422][688]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 1024X1024)
+[2021.07.29-02.11.44:422][688]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 512X512)
+[2021.07.29-02.11.44:422][688]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 512X512)
+[2021.07.29-02.11.44:422][688]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2021.07.29-02.11.44:422][688]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2021.07.29-02.11.44:594][688]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 32X32)
+[2021.07.29-02.11.44:594][688]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X512)
+[2021.07.29-02.11.44:595][688]LogStaticLightingSystem: House_1_BuiltData storing lightmap data for 83 meshes in 5 LightmapResourceClusters (16.6 Meshes per cluster).
+[2021.07.29-02.11.44:626][688]Lightmass on DESKTOP-DUTAEH4: 3.95 sec total, 271 ms importing, 41 ms setup, 729 ms photons, 2.86 sec processing, 0 ms extra exporting [83/83 mappings]. Threads: 42.9 sec total, 16.4 sec processing.
+[2021.07.29-02.11.44:629][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2021.07.29-02.11.44:651][688]LogStaticLightingSystem: Illumination: 9.55 sec (320 ms encoding lightmaps, 136 ms encoding shadowmaps)
+[2021.07.29-02.11.44:651][688]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2021.07.29-02.11.44:651][688]LogStaticLightingSystem: Shadowmap texture memory: 0.7 MB (0.7 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.07.29-02.11.45:610][688]DumpUnbuiltLightIteractions
+[2021.07.29-02.11.45:610][688]Lights with unbuilt interactions: 0
+[2021.07.29-02.11.45:610][688]
+[2021.07.29-02.11.45:610][688]Primitives with unbuilt interactions: 0
+[2021.07.29-02.11.45:751][688]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.29-02.11.45:818][689]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.29-02.11.45:818][689]MapCheck: New page: The_House - 28 de jul de 2021 20:11:45
+[2021.07.29-02.11.45:819][689]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,951ms to complete.
+[2021.07.29-02.11.48:100][792]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.11.48:107][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.11.48:107][792]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:11:48)
+[2021.07.29-02.11.48:143][792]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.11.48:145][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002150s)
+[2021.07.29-02.11.48:146][792]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.11.48:147][792]LogPlayLevel: PIE: World Init took: (0.001241s)
+[2021.07.29-02.11.48:147][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003576s)
+[2021.07.29-02.11.48:176][792]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.07.29-02.11.48:178][792]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2021.07.29-02.11.48:178][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.11.48:178][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.11.48:178][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.11.48:178][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.11.48:178][792]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.11.48:178][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.11.48:178][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.11.48:178][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.11.48:179][792]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.11.48:179][792]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.11.48:183][792]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.11.48:184][792]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.11.48:195][792]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.11.48:195][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.11.48:195][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.11.48:195][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.11.48:196][792]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.11.48:196][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.11.48:196][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.11.48:214][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.11.48:214][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.11.48:214][792]LogInit: FAudioDevice initialized.
+[2021.07.29-02.11.48:214][792]LogAudio: Display: Audio Device (ID: 24) registered with world 'The_House'.
+[2021.07.29-02.11.48:226][792]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.11.48:227][792]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.11.48
+[2021.07.29-02.11.48:227][792]LogWorld: Bringing up level for play took: 0.000418
+[2021.07.29-02.11.48:228][792]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.07.29-02.11.48:231][792]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.11.48:231][792]PIE: Servidor conectado
+[2021.07.29-02.11.48:232][792]PIE: Play in editor total start time 0,126 seconds.
+[2021.07.29-02.12.13:434][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.12.13:435][115]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.12.13:436][115]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.12.13:436][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.12.13:448][115]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.12.13:467][115]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.12.13:495][115]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.29-02.12.13:495][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.12.13:497][115]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.12.13:516][115]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.12.13:521][115]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.07.29-02.12.13:592][116]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.07.29-02.12.13:622][116]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.07.29-02.12.18:196][316]Cmd: TRANSACTION UNDO
+[2021.07.29-02.12.18:196][316]LogEditorTransaction: Undo Clicando nos Atores
+[2021.07.29-02.12.32:858][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.12.32:885][891]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.07.29-02.12.33:064][891]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1083C4800423E2A0C85F11BAE5C201BA0.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.12.33:067][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.12.33:133][891]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData7DCF68574A69B5AF1D0C3A92E97ED517.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.12.33:162][891]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.12.33:162][891]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.12.33:162][891]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.12.33:553][906]MapCheck: New page: Verificação de Mapa
+[2021.07.29-02.12.33:571][906]Cmd: MAP REBUILD ALLVISIBLE
+[2021.07.29-02.12.33:572][906]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.07.29-02.12.33:692][906]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=false
+[2021.07.29-02.12.33:693][906]LogWorld: UWorld::CleanupWorld for House_1, bSessionEnded=true, bCleanupResources=false
+[2021.07.29-02.12.33:716][906]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.07.29-02.12.33:717][906]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.07.29-02.12.33:717][906]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.07.29-02.12.33:747][906]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.07.29-02.12.33:748][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:750][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:752][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:754][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:756][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:758][906]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2021.07.29-02.12.33:758][906]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.07.29-02.12.33:758][906]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2021.07.29-02.12.33:758][906]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2021.07.29-02.12.33:758][906]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.07.29-02.12.33:758][906]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.07.29-02.12.33:758][906]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.07.29-02.12.33:758][906]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.07.29-02.12.33:758][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:760][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:761][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:764][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:766][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:769][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:773][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:775][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:778][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:781][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:783][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:785][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:788][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:790][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:793][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:797][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:800][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.33:803][906]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 34
+[2021.07.29-02.12.33:804][906]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 33
+[2021.07.29-02.12.33:804][906]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 32
+[2021.07.29-02.12.33:804][906]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 31
+[2021.07.29-02.12.33:804][906]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 34
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 33
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 32
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 31
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 30
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 28
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 27
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 26
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 25
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 24
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 23
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 22
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 20
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 19
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 18
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 16
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 15
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 14
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 11
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.29-02.12.36:200][906]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 9
+[2021.07.29-02.12.36:201][906]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 8
+[2021.07.29-02.12.36:201][906]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2021.07.29-02.12.36:201][906]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.07.29-02.12.36:201][906]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.07.29-02.12.36:201][906]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.07.29-02.12.36:201][906]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 3
+[2021.07.29-02.12.36:201][906]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.07.29-02.12.36:201][906]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2021.07.29-02.12.36:201][906]TextureStreamingBuild: Display: Compiling optional shaders took 2.453 seconds.
+[2021.07.29-02.12.36:209][906]LogLevel: Display: Export Material TexCoord Scales took 0.008 seconds.
+[2021.07.29-02.12.36:213][906]TextureStreamingBuild: Display: Build Texture Streaming took 0.004 seconds.
+[2021.07.29-02.12.36:239][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.07.29-02.12.36:272][906]LightingResults: New page: Compilação de Iluminação - 28 de jul de 2021 20:12:36
+[2021.07.29-02.12.36:279][906]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.29-02.12.36:283][906]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.29-02.12.36:283][906]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.29-02.12.36:284][906]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.29-02.12.36:284][906]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15576
+[2021.07.29-02.12.40:828][906]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.07.29-02.12.40:829][906]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.29-02.12.40:829][906]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.29-02.12.40:829][906]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.29-02.12.40:829][906]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.29-02.12.40:829][906]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.29-02.12.40:976][906]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.07.29-02.12.40:976][906]MapCheck: New page: The_House - 28 de jul de 2021 20:12:40
+[2021.07.29-02.12.40:976][906]MapCheck: Error: WorldSettings O mapa precisa de recompilação de iluminação 
+[2021.07.29-02.12.40:977][906]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1,071ms to complete.
+[2021.07.29-02.12.40:980][906]LogEditorBuildUtils: Build time 0:07
+[2021.07.29-02.12.41:245][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.07.29-02.12.45:255][  5]Job is a success!
+[2021.07.29-02.12.45:480][  6]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.012s
+[2021.07.29-02.12.45:480][  6]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.07.29-02.12.45:480][  6]LogVolumetricLightmapImport:      BrickData (all levels) 0.1Mb
+[2021.07.29-02.12.45:480][  6]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.29-02.12.45:480][  6]LogVolumetricLightmapImport:          0: 3.3% covering 100.0% of volume
+[2021.07.29-02.12.45:480][  6]LogVolumetricLightmapImport:          1: 3.3% covering 1.6% of volume
+[2021.07.29-02.12.45:480][  6]LogVolumetricLightmapImport:          2: 93.3% covering 0.7% of volume
+[2021.07.29-02.12.45:480][  6]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.29-02.12.45:480][  6]LogVolumetricLightmapImport:          The_House 			 2 bricks 	 6.7% (Persistent Level)
+[2021.07.29-02.12.45:480][  6]LogVolumetricLightmapImport:          House_1 			 28 bricks 	 93.3%
+[2021.07.29-02.12.45:545][  6]LightingResults: Warning: PointLight3 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2021.07.29-02.12.45:545][  6]LightingResults: Warning: PointLight5 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2021.07.29-02.12.45:545][  6]LightingResults: Warning: PointLight6 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2021.07.29-02.12.45:545][  6]LightingResults: Warning: PointLight7 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2021.07.29-02.12.45:545][  6]LightingResults: Warning: PointLight8 Perda de desempenho severa: Falha ao alocar o canal de mapa de sombras para a luz estacionária devido à sobreposição - a luz voltará para as sombras dinâmicas!
+[2021.07.29-02.12.45:840][  6]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.07.29-02.12.45:840][  6]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.07.29-02.12.45:840][  6]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2021.07.29-02.12.45:840][  6]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2021.07.29-02.12.45:840][  6]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 64X64)
+[2021.07.29-02.12.45:840][  6]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 64X64)
+[2021.07.29-02.12.46:040][  6]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2021.07.29-02.12.46:120][  6]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (BGRA8, 1024X1024)
+[2021.07.29-02.12.46:121][  6]LogStaticLightingSystem: House_1_BuiltData storing lightmap data for 83 meshes in 5 LightmapResourceClusters (16.6 Meshes per cluster).
+[2021.07.29-02.12.46:152][  6]Lightmass on DESKTOP-DUTAEH4: 4.27 sec total, 274 ms importing, 40 ms setup, 720 ms photons, 3.20 sec processing, 0 ms extra exporting [83/83 mappings]. Threads: 48.0 sec total, 20.7 sec processing.
+[2021.07.29-02.12.46:155][  6]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.07.29-02.12.46:176][  6]LogStaticLightingSystem: Illumination: 9.83 sec (331 ms encoding lightmaps, 238 ms encoding shadowmaps)
+[2021.07.29-02.12.46:176][  6]LogStaticLightingSystem: Lightmap texture memory:  2.5 MB (2.5 MB streaming, 0.0 MB non-streaming), 6 textures
+[2021.07.29-02.12.46:176][  6]LogStaticLightingSystem: Shadowmap texture memory: 5.3 MB (5.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.07.29-02.12.55:845][  6]DumpUnbuiltLightIteractions
+[2021.07.29-02.12.55:845][  6]Lights with unbuilt interactions: 0
+[2021.07.29-02.12.55:845][  6]
+[2021.07.29-02.12.55:845][  6]Primitives with unbuilt interactions: 0
+[2021.07.29-02.12.55:942][  6]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.29-02.12.56:008][  7]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.29-02.12.56:008][  7]MapCheck: New page: The_House - 28 de jul de 2021 20:12:56
+[2021.07.29-02.12.56:009][  7]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,866ms to complete.
+[2021.07.29-02.12.58:181][ 99]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.12.58:188][ 99]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.12.58:188][ 99]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:12:58)
+[2021.07.29-02.12.58:223][ 99]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.12.58:226][ 99]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002330s)
+[2021.07.29-02.12.58:227][ 99]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.12.58:227][ 99]LogPlayLevel: PIE: World Init took: (0.001251s)
+[2021.07.29-02.12.58:227][ 99]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003789s)
+[2021.07.29-02.12.58:256][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.07.29-02.12.58:258][ 99]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2021.07.29-02.12.58:258][ 99]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.12.58:258][ 99]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.12.58:258][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.12.58:258][ 99]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.12.58:258][ 99]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.12.58:258][ 99]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.12.58:258][ 99]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.12.58:258][ 99]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.12.58:259][ 99]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.12.58:259][ 99]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.12.58:263][ 99]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.12.58:263][ 99]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.12.58:274][ 99]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.12.58:274][ 99]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.12.58:274][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.12.58:274][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.12.58:275][ 99]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.12.58:275][ 99]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.12.58:275][ 99]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.12.58:294][ 99]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.12.58:294][ 99]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.12.58:294][ 99]LogInit: FAudioDevice initialized.
+[2021.07.29-02.12.58:294][ 99]LogAudio: Display: Audio Device (ID: 25) registered with world 'The_House'.
+[2021.07.29-02.12.58:304][ 99]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.12.58:305][ 99]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.12.58
+[2021.07.29-02.12.58:305][ 99]LogWorld: Bringing up level for play took: 0.000430
+[2021.07.29-02.12.58:305][ 99]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.07.29-02.12.58:308][ 99]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.12.58:308][ 99]PIE: Servidor conectado
+[2021.07.29-02.12.58:309][ 99]PIE: Play in editor total start time 0,121 seconds.
+[2021.07.29-02.13.42:354][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.13.42:354][390]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.13.42:355][390]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.13.42:355][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.13.42:362][390]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.13.42:380][390]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.13.42:408][390]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.29-02.13.42:408][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.13.42:409][390]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.13.42:430][390]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.13.42:435][390]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.07.29-02.13.42:505][391]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.07.29-02.13.42:534][391]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.07.29-02.13.43:744][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Dog_Food)
+[2021.07.29-02.13.49:394][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.13.49:419][677]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.07.29-02.13.49:596][677]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1D3492B3B47F510DA04501094FCA27026.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.13.49:600][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.13.49:681][677]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData86852A744F040304D92EB7BDE627D050.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.13.49:699][677]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.13.49:699][677]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.13.49:699][677]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.13.57:494][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2021.07.29-02.13.59:401][ 16]LogSlate: Window 'Delete Assets' being destroyed
+[2021.07.29-02.13.59:571][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2021.07.29-02.13.59:610][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.07.29-02.13.59:636][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.07.29-02.18.35:727][153]BlueprintLog: New page: Compilar House_1
+[2021.07.29-02.18.35:831][153]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2021.07.29-02.18.36:558][177]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.18.36:587][177]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.07.29-02.18.36:761][177]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1C51EFD89408D4E4C882BCA933C0A6702.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.18.36:762][177]LogFileHelpers: Saving map 'House_1' took 0.204
+[2021.07.29-02.18.36:783][177]AssetCheck: New page: Asset Save: House_1
+[2021.07.29-02.18.36:784][177]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.18.51:486][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.18.51:514][933]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.07.29-02.18.51:690][933]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_187FCE36F4194DA8A06F520A068F31C14.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.18.51:694][933]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.18.51:778][933]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData0ADF1897418A08E0B5EC688AAED2E946.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.18.51:793][933]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.18.51:793][933]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.18.51:793][933]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.22.59:480][253]BlueprintLog: New page: Compilar House_1
+[2021.07.29-02.22.59:588][253]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.07.29-02.23.00:199][271]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.23.00:229][271]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.07.29-02.23.00:411][271]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1F6B1C4994DE7D3CDE8B56AB1878D6A58.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.23.00:412][271]LogFileHelpers: Saving map 'House_1' took 0.214
+[2021.07.29-02.23.00:427][271]AssetCheck: New page: Asset Save: House_1
+[2021.07.29-02.23.00:428][271]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.23.03:983][462]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.23.03:990][462]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.23.03:990][462]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:23:03)
+[2021.07.29-02.23.03:991][462]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.23.03:993][462]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001989s)
+[2021.07.29-02.23.03:994][462]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.23.03:994][462]LogPlayLevel: PIE: World Init took: (0.001157s)
+[2021.07.29-02.23.03:994][462]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003285s)
+[2021.07.29-02.23.04:022][462]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.07.29-02.23.04:024][462]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2021.07.29-02.23.04:024][462]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.23.04:024][462]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.23.04:024][462]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.23.04:024][462]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.23.04:024][462]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.23.04:024][462]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.23.04:024][462]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.23.04:024][462]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.23.04:025][462]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.23.04:025][462]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.23.04:030][462]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.23.04:030][462]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.23.04:041][462]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.23.04:041][462]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.23.04:041][462]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.23.04:041][462]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.23.04:042][462]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.23.04:042][462]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.23.04:042][462]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.23.04:062][462]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.23.04:062][462]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.23.04:062][462]LogInit: FAudioDevice initialized.
+[2021.07.29-02.23.04:062][462]LogAudio: Display: Audio Device (ID: 26) registered with world 'The_House'.
+[2021.07.29-02.23.04:075][462]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.23.04:076][462]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.23.04
+[2021.07.29-02.23.04:076][462]LogWorld: Bringing up level for play took: 0.000435
+[2021.07.29-02.23.04:076][462]LogOnline: OSS: Creating online subsystem instance for: :Context_32
+[2021.07.29-02.23.04:079][462]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.23.04:079][462]PIE: Servidor conectado
+[2021.07.29-02.23.04:080][462]PIE: Play in editor total start time 0,091 seconds.
+[2021.07.29-02.24.22:223][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.24.22:223][ 94]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.24.22:224][ 94]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.24.22:224][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.24.22:236][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.24.22:263][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.24.22:291][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.24.22:292][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.24.22:293][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.24.22:318][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.07.29-02.24.22:388][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2021.07.29-02.24.22:417][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.07.29-02.24.36:467][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.24.36:493][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.07.29-02.24.36:674][835]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_11F00230B4722BA9FC54FB1ABFA65EBB1.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.24.36:677][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.24.36:761][835]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData92C64D454B58BF5BDD5DB0B275B0E9A5.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.24.36:784][835]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.24.36:784][835]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.24.36:784][835]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.24.38:283][908]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.24.38:290][908]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.24.38:290][908]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:24:38)
+[2021.07.29-02.24.38:290][908]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.24.38:292][908]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002026s)
+[2021.07.29-02.24.38:293][908]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.24.38:294][908]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2021.07.29-02.24.38:294][908]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003310s)
+[2021.07.29-02.24.38:322][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.07.29-02.24.38:324][908]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2021.07.29-02.24.38:324][908]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.24.38:324][908]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.24.38:324][908]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.24.38:324][908]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.24.38:324][908]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.24.38:324][908]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.24.38:324][908]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.24.38:324][908]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.24.38:325][908]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.24.38:325][908]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.24.38:329][908]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.24.38:329][908]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.24.38:340][908]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.24.38:340][908]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.24.38:340][908]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.24.38:340][908]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.24.38:341][908]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.24.38:341][908]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.24.38:341][908]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.24.38:360][908]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.24.38:360][908]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.24.38:360][908]LogInit: FAudioDevice initialized.
+[2021.07.29-02.24.38:360][908]LogAudio: Display: Audio Device (ID: 27) registered with world 'The_House'.
+[2021.07.29-02.24.38:372][908]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.24.38:373][908]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.24.38
+[2021.07.29-02.24.38:373][908]LogWorld: Bringing up level for play took: 0.000512
+[2021.07.29-02.24.38:374][908]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2021.07.29-02.24.38:377][908]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.24.38:377][908]PIE: Servidor conectado
+[2021.07.29-02.24.38:378][908]PIE: Play in editor total start time 0,089 seconds.
+[2021.07.29-02.25.30:003][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.25.30:003][409]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.25.30:004][409]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.25.30:004][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.25.30:015][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.25.30:042][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.25.30:072][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.25.30:072][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.25.30:073][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.25.30:099][409]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.07.29-02.25.30:174][410]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2021.07.29-02.25.30:205][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.07.29-02.25.37:627][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Furniture_trash_dirty)
+[2021.07.29-02.26.49:285][578]BlueprintLog: New page: Compilar House_1
+[2021.07.29-02.26.49:389][578]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.07.29-02.26.49:789][585]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.26.49:819][585]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.07.29-02.26.50:002][585]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_19A01971142C3C0481B349CAC1DF5B93A.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.26.50:004][585]LogFileHelpers: Saving map 'House_1' took 0.215
+[2021.07.29-02.26.50:027][585]AssetCheck: New page: Asset Save: House_1
+[2021.07.29-02.26.50:027][585]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.27.08:605][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.27.08:631][595]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.07.29-02.27.08:812][595]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_144D77DE941C6C0D19611FAB9485430ED.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.27.08:815][595]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.27.08:900][595]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltDataD2286700464FB455936E4396EE8DCCBC.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.27.08:914][595]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.27.08:914][595]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.27.08:915][595]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.27.52:016][750]BlueprintLog: New page: Compilar House_1
+[2021.07.29-02.27.52:119][750]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2021.07.29-02.27.52:866][774]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.27.52:894][774]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.07.29-02.27.53:074][774]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_160D44D6E4ECEE3155981BCB3402B002C.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.27.53:075][774]LogFileHelpers: Saving map 'House_1' took 0.210
+[2021.07.29-02.27.53:102][774]AssetCheck: New page: Asset Save: House_1
+[2021.07.29-02.27.53:102][774]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.29.07:072][635]BlueprintLog: New page: Compilar House_1
+[2021.07.29-02.29.07:174][635]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.07.29-02.29.07:785][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.29.07:815][651]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2021.07.29-02.29.07:997][651]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1204021474311C802F01DE184E2CBE890.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.29.07:998][651]LogFileHelpers: Saving map 'House_1' took 0.213
+[2021.07.29-02.29.08:016][651]AssetCheck: New page: Asset Save: House_1
+[2021.07.29-02.29.08:016][651]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.29.17:690][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.29.17:717][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.07.29-02.29.17:916][158]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1173F386C4BE48D2D7008CAAF0AF55058.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.29.17:919][158]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.29.18:001][158]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData353F21DB4DF05E9C0754019CE0719A66.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.29.18:015][158]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.29.18:015][158]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.29.18:015][158]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.29.18:948][208]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.29.18:955][208]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.29.18:955][208]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:29:18)
+[2021.07.29-02.29.18:982][208]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.29.18:984][208]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002275s)
+[2021.07.29-02.29.18:986][208]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.29.18:986][208]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2021.07.29-02.29.18:986][208]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003758s)
+[2021.07.29-02.29.19:016][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.07.29-02.29.19:018][208]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.07.29-02.29.19:018][208]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.29.19:018][208]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.29.19:018][208]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.29.19:018][208]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.29.19:018][208]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.29.19:018][208]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.29.19:018][208]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.29.19:018][208]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.29.19:019][208]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.29.19:019][208]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.29.19:024][208]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.29.19:024][208]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.29.19:035][208]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.29.19:035][208]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.29.19:035][208]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.29.19:035][208]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.29.19:036][208]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.29.19:036][208]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.29.19:036][208]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.29.19:058][208]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.29.19:058][208]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.29.19:058][208]LogInit: FAudioDevice initialized.
+[2021.07.29-02.29.19:058][208]LogAudio: Display: Audio Device (ID: 28) registered with world 'The_House'.
+[2021.07.29-02.29.19:068][208]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.29.19:069][208]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.29.19
+[2021.07.29-02.29.19:070][208]LogWorld: Bringing up level for play took: 0.000437
+[2021.07.29-02.29.19:070][208]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2021.07.29-02.29.19:073][208]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.29.19:073][208]PIE: Servidor conectado
+[2021.07.29-02.29.19:074][208]PIE: Play in editor total start time 0,12 seconds.
+[2021.07.29-02.29.43:993][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.29.43:993][875]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.29.43:994][875]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.29.43:994][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.29.44:005][875]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.29.44:031][875]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.29.44:060][875]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.29.44:061][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.29.44:062][875]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.29.44:088][875]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.07.29-02.29.44:167][876]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2021.07.29-02.29.44:198][876]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.07.29-02.30.10:158][302]BlueprintLog: New page: Compilar Personagem
+[2021.07.29-02.30.10:292][302]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.07.29-02.30.10:657][313]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/Personagem" FILE="../../../../../../Projects/TL_Git/UE/Content/Scripts/Personagem.uasset" SILENT=true
+[2021.07.29-02.30.10:720][313]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/PersonagemFD81D3D4432E4E15B23FA79EE0661B99.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Scripts/Personagem.uasset'
+[2021.07.29-02.30.10:735][313]AssetCheck: New page: Asset Save: Personagem
+[2021.07.29-02.30.10:735][313]LogContentValidation: Display: Validating Blueprint /Game/Scripts/Personagem.Personagem
+[2021.07.29-02.30.12:046][379]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.30.12:053][379]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.30.12:053][379]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:30:12)
+[2021.07.29-02.30.12:102][379]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.30.12:104][379]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002199s)
+[2021.07.29-02.30.12:105][379]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.30.12:105][379]LogPlayLevel: PIE: World Init took: (0.001219s)
+[2021.07.29-02.30.12:105][379]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003590s)
+[2021.07.29-02.30.12:139][379]LogUObjectHash: Compacting FUObjectHashTables data took   4.85ms
+[2021.07.29-02.30.12:142][379]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.07.29-02.30.12:142][379]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.30.12:142][379]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.30.12:142][379]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.30.12:142][379]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.30.12:142][379]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.30.12:142][379]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.30.12:142][379]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.30.12:142][379]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.30.12:143][379]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.30.12:143][379]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.30.12:147][379]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.30.12:147][379]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.30.12:158][379]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.30.12:158][379]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.30.12:158][379]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.30.12:158][379]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.30.12:159][379]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.30.12:159][379]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.30.12:159][379]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.30.12:179][379]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.30.12:179][379]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.30.12:179][379]LogInit: FAudioDevice initialized.
+[2021.07.29-02.30.12:179][379]LogAudio: Display: Audio Device (ID: 29) registered with world 'The_House'.
+[2021.07.29-02.30.12:186][379]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.30.12:187][379]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.30.12
+[2021.07.29-02.30.12:187][379]LogWorld: Bringing up level for play took: 0.000421
+[2021.07.29-02.30.12:188][379]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.07.29-02.30.12:191][379]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.30.12:191][379]PIE: Servidor conectado
+[2021.07.29-02.30.12:192][379]PIE: Play in editor total start time 0,139 seconds.
+[2021.07.29-02.30.13:587][475]LogBlueprintUserMessages: [Personagem_C_0] EndLevel
+[2021.07.29-02.30.20:163][994]LogBlueprintUserMessages: [Personagem_C_0] Recado
+[2021.07.29-02.30.23:503][259]LogBlueprintUserMessages: [Personagem_C_0] Pia_full
+[2021.07.29-02.30.24:216][316]LogBlueprintUserMessages: [Personagem_C_0] Pia_full
+[2021.07.29-02.30.29:502][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.30.29:503][722]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.30.29:503][722]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.30.29:504][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.30.29:515][722]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.30.29:542][722]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.30.29:569][722]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.29-02.30.29:570][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.30.29:572][722]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.30.29:592][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.30.29:598][722]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.07.29-02.30.29:665][723]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.07.29-02.30.29:696][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.07.29-02.30.45:820][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.30.45:846][682]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.07.29-02.30.46:041][682]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_17058E19641B6CFE97B81049A35AD4A97.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.30.46:045][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.30.46:129][682]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData6DBED04C4C6612C05284009376FB75FD.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.30.46:147][682]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.30.46:147][682]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.30.46:147][682]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.30.47:187][740]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.30.47:194][740]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.30.47:194][740]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:30:47)
+[2021.07.29-02.30.47:194][740]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.30.47:196][740]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001892s)
+[2021.07.29-02.30.47:197][740]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.30.47:197][740]LogPlayLevel: PIE: World Init took: (0.001101s)
+[2021.07.29-02.30.47:197][740]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003128s)
+[2021.07.29-02.30.47:226][740]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2021.07.29-02.30.47:228][740]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.07.29-02.30.47:228][740]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.30.47:228][740]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.30.47:228][740]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.30.47:228][740]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.30.47:228][740]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.30.47:228][740]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.30.47:228][740]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.30.47:228][740]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.30.47:229][740]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.30.47:229][740]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.30.47:233][740]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.30.47:233][740]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.30.47:245][740]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.30.47:245][740]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.30.47:245][740]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.30.47:245][740]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.30.47:246][740]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.30.47:246][740]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.30.47:246][740]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.30.47:265][740]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.30.47:265][740]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.30.47:265][740]LogInit: FAudioDevice initialized.
+[2021.07.29-02.30.47:265][740]LogAudio: Display: Audio Device (ID: 30) registered with world 'The_House'.
+[2021.07.29-02.30.47:274][740]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.30.47:275][740]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.30.47
+[2021.07.29-02.30.47:275][740]LogWorld: Bringing up level for play took: 0.000425
+[2021.07.29-02.30.47:275][740]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.07.29-02.30.47:278][740]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.30.47:278][740]PIE: Servidor conectado
+[2021.07.29-02.30.47:279][740]PIE: Play in editor total start time 0,086 seconds.
+[2021.07.29-02.30.48:354][812]LogBlueprintUserMessages: [Personagem_C_0] EndLevel
+[2021.07.29-02.30.48:572][829]LogBlueprintUserMessages: [Personagem_C_0] EndLevel
+[2021.07.29-02.30.48:585][830]LogBlueprintUserMessages: [Personagem_C_0] EndLevel
+[2021.07.29-02.30.53:928][252]LogBlueprintUserMessages: [Personagem_C_0] Recado
+[2021.07.29-02.30.54:132][268]LogBlueprintUserMessages: [Personagem_C_0] Recado
+[2021.07.29-02.30.54:145][269]LogBlueprintUserMessages: [Personagem_C_0] Recado
+[2021.07.29-02.30.54:158][270]LogBlueprintUserMessages: [Personagem_C_0] Recado
+[2021.07.29-02.30.54:171][271]LogBlueprintUserMessages: [Personagem_C_0] Recado
+[2021.07.29-02.30.54:303][281]LogBlueprintUserMessages: [Personagem_C_0] Recado
+[2021.07.29-02.30.54:316][282]LogBlueprintUserMessages: [Personagem_C_0] Recado
+[2021.07.29-02.30.54:836][323]LogBlueprintUserMessages: [Personagem_C_0] Recado
+[2021.07.29-02.31.00:324][755]LogBlueprintUserMessages: [Personagem_C_0] Pia_full
+[2021.07.29-02.31.05:464][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.31.05:464][160]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.31.05:465][160]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.31.05:465][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.31.05:478][160]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.31.05:505][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.31.05:534][160]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.31.05:534][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.31.05:536][160]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.31.05:562][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.07.29-02.31.05:630][161]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.07.29-02.31.05:659][161]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2021.07.29-02.31.52:916][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.31.52:942][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2021.07.29-02.31.53:133][183]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1A0E8BD464DB58955499E37B49AA4D9C8.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.31.53:136][183]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.31.53:219][183]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltDataE58F693A449D5DDCD59800B24327DD7D.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.31.53:236][183]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.31.53:236][183]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.31.53:236][183]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.31.54:218][242]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.31.54:225][242]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.31.54:225][242]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:31:54)
+[2021.07.29-02.31.54:226][242]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.31.54:228][242]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001872s)
+[2021.07.29-02.31.54:229][242]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.31.54:229][242]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2021.07.29-02.31.54:229][242]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003104s)
+[2021.07.29-02.31.54:257][242]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.07.29-02.31.54:260][242]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.07.29-02.31.54:260][242]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.31.54:260][242]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.31.54:260][242]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.31.54:260][242]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.31.54:260][242]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.31.54:260][242]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.31.54:260][242]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.31.54:260][242]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.31.54:260][242]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.31.54:260][242]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.31.54:265][242]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.31.54:265][242]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.31.54:276][242]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.31.54:276][242]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.31.54:276][242]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.31.54:276][242]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.31.54:277][242]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.31.54:277][242]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.31.54:277][242]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.31.54:298][242]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.31.54:298][242]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.31.54:298][242]LogInit: FAudioDevice initialized.
+[2021.07.29-02.31.54:298][242]LogAudio: Display: Audio Device (ID: 31) registered with world 'The_House'.
+[2021.07.29-02.31.54:309][242]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.31.54:310][242]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.31.54
+[2021.07.29-02.31.54:310][242]LogWorld: Bringing up level for play took: 0.000487
+[2021.07.29-02.31.54:310][242]LogOnline: OSS: Creating online subsystem instance for: :Context_37
+[2021.07.29-02.31.54:313][242]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.31.54:313][242]PIE: Servidor conectado
+[2021.07.29-02.31.54:314][242]PIE: Play in editor total start time 0,089 seconds.
+[2021.07.29-02.31.55:454][321]LogBlueprintUserMessages: [Personagem_C_0] EndLevel
+[2021.07.29-02.32.01:500][793]LogBlueprintUserMessages: [Personagem_C_0] Recado
+[2021.07.29-02.32.01:860][822]LogBlueprintUserMessages: [Personagem_C_0] Recado
+[2021.07.29-02.32.03:851][979]LogBlueprintUserMessages: [Personagem_C_0] Disposer
+[2021.07.29-02.32.04:278][ 12]LogBlueprintUserMessages: [Personagem_C_0] Disposer
+[2021.07.29-02.32.04:396][ 21]LogBlueprintUserMessages: [Personagem_C_0] Pia_full
+[2021.07.29-02.32.06:189][164]LogBlueprintUserMessages: [Personagem_C_0] Disposer
+[2021.07.29-02.32.08:692][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.32.08:693][359]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.32.08:694][359]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.32.08:694][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.32.08:704][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.32.08:731][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.32.08:757][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.29-02.32.08:760][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.32.08:761][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.32.08:781][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.32.08:787][359]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.07.29-02.32.08:853][360]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2021.07.29-02.32.08:883][360]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.07.29-02.32.16:075][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.32.16:101][787]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.07.29-02.32.16:290][787]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1001AB4A642F51265B7DE369393FC4AAC.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.32.16:294][787]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.29-02.32.16:380][787]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData047645E342EF91413E46A4AC7C3B3A3B.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.29-02.32.16:395][787]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.32.16:395][787]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.29-02.32.16:395][787]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.32.34:435][882]BlueprintLog: New page: Compilar Personagem
+[2021.07.29-02.32.34:506][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.07.29-02.32.35:471][930]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/Personagem" FILE="../../../../../../Projects/TL_Git/UE/Content/Scripts/Personagem.uasset" SILENT=true
+[2021.07.29-02.32.35:532][930]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/PersonagemD003FCDB409FA262F23107B53B677A31.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Scripts/Personagem.uasset'
+[2021.07.29-02.32.35:548][930]AssetCheck: New page: Asset Save: Personagem
+[2021.07.29-02.32.35:548][930]LogContentValidation: Display: Validating Blueprint /Game/Scripts/Personagem.Personagem
+[2021.07.29-02.32.39:117][125]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.07.29-02.32.39:168][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/The_House" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/The_House.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.32.39:194][125]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.07.29-02.32.39:201][125]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/The_House3FA5F6AC4C9FC5C3FE63B880C70723C9.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/The_House.umap'
+[2021.07.29-02.32.39:210][125]LogFileHelpers: Saving map 'The_House' took 0.043
+[2021.07.29-02.32.39:210][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/The_House_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/The_House_BuiltData.uasset" SILENT=true
+[2021.07.29-02.32.39:211][125]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/The_House_BuiltData8ED208054D863912BB3AB0B52096CBEF.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/The_House_BuiltData.uasset'
+[2021.07.29-02.32.39:235][125]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.29-02.32.39:235][125]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/The_House_BuiltData.The_House_BuiltData
+[2021.07.29-02.32.39:235][125]LogContentValidation: Display: Validating World /Game/Levels/The_House.The_House
+[2021.07.29-02.32.42:516][324]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.07.29-02.32.42:564][324]LogPlayLevel: Launcher Device ID: WindowsNoEditor@DESKTOP-DUTAEH4
+[2021.07.29-02.32.42:637][324]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.32.42:659][324]LogCook: Display: Creating asset registry
+[2021.07.29-02.32.42:793][324]LogCook: Display: Discovering localized assets for cultures: en
+[2021.07.29-02.32.42:857][324]LogCook: Display: Inisetting is different for Windows Engine /Script/EngineSettings.GameMapsSettings EditorStartupMap 0, value /Game/Levels/The_House.The_House != /Game/FirstPersonBP/Maps/FirstPersonExampleMap invalidating cook
+[2021.07.29-02.32.42:857][324]LogCook: Display: To avoid this add blacklist setting to DefaultEditor.ini [CookSettings] Windows.Engine:/Script/EngineSettings.GameMapsSettings
+[2021.07.29-02.32.42:858][324]LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.07.29-02.32.42:912][324]LogCook: Display: Sandbox cleanup took 0.114 seconds for platforms WindowsNoEditor
+[2021.07.29-02.32.45:745][324]LogLauncherProfile: Unable to find any targets for platform WindowsNoEditor - forcing build
+[2021.07.29-02.32.45:747][324]LogLauncherProfile: Unable to find any targets for platform WindowsNoEditor - forcing build
+[2021.07.29-02.32.46:021][325]LogCook: Display: Cooked packages 0 Packages Remain 47 Total 47
+[2021.07.29-02.32.46:021][325]LogCook: Display: Cook Diagnostics: OpenFileHandles=579, VirtualMemory=4458MiB
+[2021.07.29-02.32.46:025][325]LogCook: Display: Loading secondary levels for package 'The_House'
+[2021.07.29-02.32.46:051][325]LogMaterial: Display: Missing cached shader map for material Storeroom_textures, compiling. 
+[2021.07.29-02.32.46:167][325]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 21
+[2021.07.29-02.32.46:168][325]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 19
+[2021.07.29-02.32.46:168][325]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 17
+[2021.07.29-02.32.46:168][325]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.07.29-02.32.46:168][325]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 13
+[2021.07.29-02.32.46:168][325]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 11
+[2021.07.29-02.32.46:168][325]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2021.07.29-02.32.46:168][325]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.07.29-02.32.46:168][325]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2021.07.29-02.32.46:168][325]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.07.29-02.32.46:168][325]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.29-02.32.46:168][325]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintNativeCodeGen' in 0.0012 seconds. Added 0 classes and 0 folders.
+[2021.07.29-02.32.47:362][325]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2021.07.29-02.32.48:000][328]LogCook: Display: Cooked packages 30 Packages Remain 575 Total 605
+[2021.07.29-02.32.48:210][330]LogMaterial: Display: Missing cached shader map for material Master_Bedroom_texture, compiling. 
+[2021.07.29-02.32.48:343][331]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 21
+[2021.07.29-02.32.48:344][331]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2021.07.29-02.32.48:347][331]LogMaterial: Display: Missing cached shader map for material tv_room_texture, compiling. 
+[2021.07.29-02.32.48:381][331]LogMaterial: Display: Missing cached shader map for material Kitchen_tasks_texture, compiling. 
+[2021.07.29-02.32.48:411][331]LogMaterial: Display: Missing cached shader map for material Storeroom_textures, compiling. 
+[2021.07.29-02.32.48:437][331]LogMaterial: Display: Missing cached shader map for material Bathrooms_texture, compiling. 
+[2021.07.29-02.32.48:551][332]LogMaterial: Display: Missing cached shader map for material Bedroom_Boy_texture, compiling. 
+[2021.07.29-02.32.48:604][332]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 101
+[2021.07.29-02.32.48:605][332]LogMaterial: Display: Missing cached shader map for material Dining_Room_and_Corridor_texture, compiling. 
+[2021.07.29-02.32.48:631][332]LogMaterial: Display: Missing cached shader map for material Kitchen_texture, compiling. 
+[2021.07.29-02.32.48:769][333]LogMaterial: Display: Missing cached shader map for material Guardrail_texture, compiling. 
+[2021.07.29-02.32.48:804][333]LogMaterial: Display: Missing cached shader map for material Dog_Task_texture, compiling. 
+[2021.07.29-02.32.48:930][334]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 197
+[2021.07.29-02.32.49:111][335]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 187
+[2021.07.29-02.32.49:258][336]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 177
+[2021.07.29-02.32.49:448][337]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 167
+[2021.07.29-02.32.49:448][337]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 157
+[2021.07.29-02.32.49:448][337]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 147
+[2021.07.29-02.32.49:448][337]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 137
+[2021.07.29-02.32.49:448][337]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 127
+[2021.07.29-02.32.49:699][338]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 117
+[2021.07.29-02.32.50:013][339]LogCook: Display: Cooked packages 183 Packages Remain 422 Total 605
+[2021.07.29-02.32.51:213][345]LogMaterial: Display: Missing cached shader map for material Highlight, compiling. 
+[2021.07.29-02.32.51:514][347]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 111
+[2021.07.29-02.32.52:069][347]LogUObjectHash: Compacting FUObjectHashTables data took  30.13ms
+[2021.07.29-02.32.52:440][347]LogCook: Display: Cooked packages 227 Packages Remain 378 Total 605
+[2021.07.29-02.32.52:503][348]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 101
+[2021.07.29-02.32.52:903][348]LogUObjectHash: Compacting FUObjectHashTables data took  11.42ms
+[2021.07.29-02.32.54:001][354]LogCook: Display: Cooked packages 275 Packages Remain 331 Total 606
+[2021.07.29-02.32.56:018][365]LogCook: Display: Cooked packages 312 Packages Remain 294 Total 606
+[2021.07.29-02.32.57:993][374]LogCook: Display: Cooked packages 365 Packages Remain 241 Total 606
+[2021.07.29-02.32.59:994][385]LogCook: Display: Cooked packages 454 Packages Remain 152 Total 606
+[2021.07.29-02.33.01:732][395]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 92
+[2021.07.29-02.33.01:987][397]LogCook: Display: Cooked packages 517 Packages Remain 89 Total 606
+[2021.07.29-02.33.02:267][398]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 84
+[2021.07.29-02.33.02:555][399]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 76
+[2021.07.29-02.33.02:749][400]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 69
+[2021.07.29-02.33.02:920][401]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 63
+[2021.07.29-02.33.03:450][403]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 57
+[2021.07.29-02.33.03:746][404]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 52
+[2021.07.29-02.33.04:014][404]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 47
+[2021.07.29-02.33.04:015][404]LogCook: Display: Cooked packages 580 Packages Remain 27 Total 607
+[2021.07.29-02.33.04:063][405]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 43
+[2021.07.29-02.33.04:502][406]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 39
+[2021.07.29-02.33.05:289][408]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 35
+[2021.07.29-02.33.05:367][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2021.07.29-02.33.06:042][410]LogCook: Display: Cooked packages 591 Packages Remain 14 Total 605
+[2021.07.29-02.33.06:640][412]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 32
+[2021.07.29-02.33.07:995][426]LogCook: Display: Cooked packages 599 Packages Remain 6 Total 605
+[2021.07.29-02.33.09:512][446]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 29
+[2021.07.29-02.33.09:512][446]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 26
+[2021.07.29-02.33.09:714][450]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 23
+[2021.07.29-02.33.09:761][451]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 21
+[2021.07.29-02.33.09:810][452]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 19
+[2021.07.29-02.33.09:863][453]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2021.07.29-02.33.10:099][457]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 15
+[2021.07.29-02.33.11:015][469]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 13
+[2021.07.29-02.33.11:130][471]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 11
+[2021.07.29-02.33.11:189][472]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.07.29-02.33.11:236][472]LogCook: Display: Cooked packages 600 Packages Remain 5 Total 605
+[2021.07.29-02.33.12:398][489]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.29-02.33.12:663][493]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.07.29-02.33.12:788][494]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.07.29-02.33.12:788][494]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.29-02.33.12:789][494]LogCook: Display: Cooked packages 601 Packages Remain 4 Total 605
+[2021.07.29-02.33.12:843][495]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.07.29-02.33.12:992][497]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2021.07.29-02.33.12:992][497]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.07.29-02.33.13:319][502]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2021.07.29-02.33.13:706][508]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 1
+[2021.07.29-02.33.13:968][512]LogCook: Display: Cooked packages 602 Packages Remain 3 Total 605
+[2021.07.29-02.33.14:363][517]LogCook: Display: Cooked packages 605 Packages Remain 0 Total 605
+[2021.07.29-02.33.14:363][517]LogCook: Display: Cook Diagnostics: OpenFileHandles=601, VirtualMemory=4492MiB
+[2021.07.29-02.33.14:363][517]LogCook: Display: Finishing up...
+[2021.07.29-02.33.14:364][517]LogCook: Display: Saving BulkData manifest(s)...
+[2021.07.29-02.33.14:374][517]LogCook: Display: Done saving BulkData manifest(s)
+[2021.07.29-02.33.14:414][517]LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2021.07.29-02.33.14:414][517]LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2021.07.29-02.33.14:414][517]LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2021.07.29-02.33.14:488][517]LogAssetRegistryGenerator: Starting FixupPackageDependenciesForChunks...
+[2021.07.29-02.33.14:491][517]LogAssetRegistryGenerator: Chunk: 0, Started with 599 packages, Final after dependency resolve: 599
+[2021.07.29-02.33.14:492][517]LogStats: ... FixupPackageDependenciesForChunks complete. -  0.004 s
+[2021.07.29-02.33.14:492][517]LogAssetRegistryGenerator: Display: Saving asset registry.
+[2021.07.29-02.33.14:554][517]LogAssetRegistryGenerator: Display: Generated asset registry num assets 599, size is 581.26kb
+[2021.07.29-02.33.14:555][517]LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2021.07.29-02.33.14:588][517]LogShaderLibrary: Display: 
+[2021.07.29-02.33.14:608][517]LogShaderLibrary: Display: Shader Code Stats: PCD3D_SM5
+[2021.07.29-02.33.14:608][517]LogShaderLibrary: Display: =================
+[2021.07.29-02.33.14:608][517]LogShaderLibrary: Display: Unique Shaders: 4327, Total Shaders: 6482, Unique Shadermaps: 340
+[2021.07.29-02.33.14:608][517]LogShaderLibrary: Display: Unique Shaders Size: 9.82mb, Total Shader Size: 13.05mb
+[2021.07.29-02.33.14:608][517]LogShaderLibrary: Display: =================
+[2021.07.29-02.33.14:609][517]LogCook: Display: Cook by the book total time in tick 13.247682s total time 31.950733
+[2021.07.29-02.33.14:609][517]LogCook: Display: Peak Used virtual 4800 MiB Peak Used physical 1864 MiB
+[2021.07.29-02.33.14:609][517]LogCook: Display: Hierarchy Timer Information:
+[2021.07.29-02.33.14:609][517]LogCook: Display:   Root: 0.000s (0)
+[2021.07.29-02.33.14:609][517]LogCook: Display:     CleanSandbox: 0.114s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:       ProcessingAccessedStrings: 0.007s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:     CollectFilesToCook: 0.004s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:       SearchForPackageOnDisk: 0.000s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:     TickCookOnTheSide: 13.247s (193)
+[2021.07.29-02.33.14:609][517]LogCook: Display:       PostLoadPackageFixup: 0.012s (1056)
+[2021.07.29-02.33.14:609][517]LogCook: Display:       LoadPackageForCooking: 3.075s (606)
+[2021.07.29-02.33.14:609][517]LogCook: Display:       SavingPackages: 10.132s (209)
+[2021.07.29-02.33.14:609][517]LogCook: Display:         BeginPackageCacheForCookedPlatformData: 1.163s (90)
+[2021.07.29-02.33.14:609][517]LogCook: Display:         PrecachePlatformDataForNextPackage: 4.434s (643)
+[2021.07.29-02.33.14:609][517]LogCook: Display:           BeginPackageCacheForCookedPlatformData: 4.431s (562)
+[2021.07.29-02.33.14:609][517]LogCook: Display:         SaveCookedPackage: 4.286s (605)
+[2021.07.29-02.33.14:609][517]LogCook: Display:           GEditorSavePackage: 4.219s (605)
+[2021.07.29-02.33.14:609][517]LogCook: Display:             ConvertingBlueprints: 0.109s (605)
+[2021.07.29-02.33.14:609][517]LogCook: Display:             VerifyCanCookPackage: 0.015s (599)
+[2021.07.29-02.33.14:609][517]LogCook: Display:     FinalizePackageStore: 0.010s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:     GeneratingBlueprintAssets: 0.042s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:     SavingCurrentIniSettings: 0.025s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:       ProcessingAccessedStrings: 0.005s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:     SavingAssetRegistry: 0.145s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:       BuildChunkManifest: 0.035s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:       SaveManifests: 0.004s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:       SaveRealAssetRegistry: 0.063s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display:       WriteCookerOpenOrder: 0.002s (1)
+[2021.07.29-02.33.14:609][517]LogCook: Display: Done!
+[2021.07.29-02.33.14:971][518]LogPlayLevel: Completed Launch On Stage: Cooking in the editor, Time: 27.954755
+[2021.07.29-02.33.15:969][576]LogPlayLevel: Running AutomationTool...
+[2021.07.29-02.33.21:390][922]LogPlayLevel: Parsing command line: -ScriptsForProject=A:/Projects/TL_Git/UE/Timeloop.uproject BuildCookRun -project=A:/Projects/TL_Git/UE/Timeloop.uproject -noP4 -clientconfig=Development -serverconfig=Development -nocompile -nocompileeditor -installed -ue4exe="A:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -utf8output -platform=Win64 -targetplatform=Win64 -ini:Game:[/Script/UnrealEd.ProjectPackagingSettings]:BlueprintNativizationMethod=Disabled -build -map=/Game/Levels/The_House -skipcook -CookInEditor -iterativecooking -compressed -iterativedeploy -stage -deploy -cmdline="/Game/Levels/The_House -Messaging" -device=WindowsNoEditor@DESKTOP-DUTAEH4 -addcmdline="-SessionId=0DFA752D4ADCF5EC846AE7A4A4FB0353 -SessionOwner='exres' -SessionName='Launch On Device'  " -run
+[2021.07.29-02.33.23:330][ 49]LogPlayLevel: Setting up ProjectParams for A:\Projects\TL_Git\UE\Timeloop.uproject
+[2021.07.29-02.33.23:444][ 56]LogPlayLevel: ********** STAGE COMMAND STARTED **********
+[2021.07.29-02.33.23:966][ 90]LogPlayLevel: Creating Staging Manifest...
+[2021.07.29-02.33.23:966][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditor.ini
+[2021.07.29-02.33.23:966][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorKeyBindings.ini
+[2021.07.29-02.33.23:966][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorSettings.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseLightmass.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BasePakFileRules.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Category.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Editor.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\EditorTutorials.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Engine.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Keywords.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectExport.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectImport.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PropertyNames.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\RepairData.ini
+[2021.07.29-02.33.23:967][ 90]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\ToolTips.ini
+[2021.07.29-02.33.23:983][ 91]LogPlayLevel: Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\WordCount.ini
+[2021.07.29-02.33.23:983][ 91]LogPlayLevel: Excluding config file A:\Projects\TL_Git\UE\Config\DefaultEditor.ini
+[2021.07.29-02.33.24:043][ 95]LogPlayLevel: Excluding config file A:\Projects\TL_Git\UE\Config\DefaultEditorPerProjectUserSettings.ini
+[2021.07.29-02.33.24:137][101]LogPlayLevel: Cleaning Stage Directory: A:\Projects\TL_Git\UE\Saved\StagedBuilds\WindowsNoEditor
+[2021.07.29-02.33.31:401][555]LogPlayLevel: Copying NonUFSFiles to staging directory: A:\Projects\TL_Git\UE\Saved\StagedBuilds\WindowsNoEditor
+[2021.07.29-02.33.49:443][705]LogPlayLevel: Copying UFSFiles to staging directory: A:\Projects\TL_Git\UE\Saved\StagedBuilds\WindowsNoEditor
+[2021.07.29-02.33.57:686][258]LogPlayLevel: Copying DebugFiles to staging directory: A:\Projects\TL_Git\UE\Saved\StagedBuilds\WindowsNoEditor
+[2021.07.29-02.33.57:686][258]LogPlayLevel: ********** STAGE COMMAND COMPLETED **********
+[2021.07.29-02.33.57:686][258]LogPlayLevel: ********** PACKAGE COMMAND STARTED **********
+[2021.07.29-02.33.57:686][258]LogPlayLevel: ********** PACKAGE COMMAND COMPLETED **********
+[2021.07.29-02.33.57:686][258]LogPlayLevel: ********** DEPLOY COMMAND STARTED **********
+[2021.07.29-02.33.57:686][258]LogPlayLevel: Warning: WARNING: Win64 does not implement Deploy...
+[2021.07.29-02.33.57:701][259]LogPlayLevel: ********** DEPLOY COMMAND COMPLETED **********
+[2021.07.29-02.33.57:701][259]LogPlayLevel: ********** RUN COMMAND STARTED **********
+[2021.07.29-02.33.57:716][260]LogPlayLevel: Starting Client....
+[2021.07.29-02.33.57:963][275]LogPlayLevel: Running: A:\Projects\TL_Git\UE\Saved\StagedBuilds\WindowsNoEditor\Engine\Binaries\Win64\UE4Game.exe ../../../Timeloop/Timeloop.uproject /Game/Levels/The_House -stdout -abslog="C:\Users\exres\AppData\Roaming\Unreal Engine\AutomationTool\Logs\A+Program+Files+Epic+Games+UE_4.26\Client.log" -Messaging -Windowed -CrashForUAT -SessionId=0DFA752D4ADCF5EC846AE7A4A4FB0353 -SessionOwner="exres" -SessionName="Launch On Device"
+[2021.07.29-02.33.58:543][309]LogPlayLevel: LogInit: Display: Running engine for game: Timeloop
+[2021.07.29-02.33.58:639][315]LogPlayLevel: Warning: LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+[2021.07.29-02.33.58:655][316]LogPlayLevel: LogStreaming: Display: Async Loading initialized: Event Driven Loader: true, Async Loading Thread: false, Async Post Load: true
+[2021.07.29-02.33.58:995][338]LogPlayLevel: [2021.07.29-02.33.58:651][  0]LogHAL: Display: Platform has ~ 8 GB [8540778496 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.29-02.33.59:351][359]LogPlayLevel: [2021.07.29-02.33.58:981][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.29-02.33.59:351][359]LogPlayLevel: [2021.07.29-02.33.59:326][  0]LogShaderLibrary: Display: Using ../../../Timeloop/Content/ShaderArchive-Global-PCD3D_SM5.ushaderbytecode for material shader code. Total 2081 unique shaders.
+[2021.07.29-02.33.59:351][359]LogPlayLevel: [2021.07.29-02.33.59:326][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Global
+[2021.07.29-02.33.59:888][368]LogPlayLevel: Warning: [2021.07.29-02.33.59:328][  0]LogTemp: Warning: Clearing the OS Cache
+[2021.07.29-02.33.59:888][368]LogPlayLevel: [2021.07.29-02.33.59:570][  0]LogShaderLibrary: Display: Using ../../../Timeloop/Content/ShaderArchive-Timeloop-PCD3D_SM5.ushaderbytecode for material shader code. Total 2246 unique shaders.
+[2021.07.29-02.33.59:888][368]LogPlayLevel: [2021.07.29-02.33.59:570][  0]LogShaderLibrary: Display: Cooked Context: Using Shared Shader Library Timeloop
+[2021.07.29-02.33.59:888][368]LogPlayLevel: [2021.07.29-02.33.59:571][  0]LogRHI: Display: Opened pipeline cache after state change and enqueued 0 of 0 tasks for precompile.
+[2021.07.29-02.34.00:227][369]LogPlayLevel: [2021.07.29-02.33.59:571][  0]LogRHI: Display: Failed to open default shader pipeline cache for Timeloop using shader platform 0.
+[2021.07.29-02.34.00:228][369]LogPlayLevel: [2021.07.29-02.33.59:893][  0]LogStreaming: Display: FlushAsyncLoading: 1 QueuedPackages, 0 AsyncPackages
+[2021.07.29-02.34.00:897][371]LogPlayLevel: [2021.07.29-02.34.00:048][  0]LogSerialization: Display: AllowBulkDataInIoStore: 'true'
+[2021.07.29-02.34.00:897][371]LogPlayLevel: [2021.07.29-02.34.00:694][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.29-02.34.01:902][374]LogPlayLevel: [2021.07.29-02.34.00:694][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.29-02.34.01:903][374]LogPlayLevel: [2021.07.29-02.34.01:877][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.07.29-02.34.01:903][374]LogPlayLevel: [2021.07.29-02.34.01:893][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.01:893][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.01:910][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.01:910][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.01:910][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.01:910][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.01:910][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.01:910][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.01:910][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.01:918][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.02:055][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.02:055][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.02:141][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.02:157][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.02:157][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.34.02:240][375]LogPlayLevel: [2021.07.29-02.34.02:180][  0]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.34.02:578][376]LogPlayLevel: [2021.07.29-02.34.02:209][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.34.02:578][376]LogPlayLevel: [2021.07.29-02.34.02:248][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.34.02:578][376]LogPlayLevel: [2021.07.29-02.34.02:271][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.34.02:578][376]LogPlayLevel: [2021.07.29-02.34.02:382][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.34.02:578][376]LogPlayLevel: [2021.07.29-02.34.02:383][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.34.02:578][376]LogPlayLevel: [2021.07.29-02.34.02:406][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.34.03:253][378]LogPlayLevel: [2021.07.29-02.34.02:406][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.34.03:253][378]LogPlayLevel: [2021.07.29-02.34.03:100][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.07.29-02.34.03:584][379]LogPlayLevel: [2021.07.29-02.34.03:240][  0]LogInit: Display: Game Engine Initialized.
+[2021.07.29-02.34.03:921][380]LogPlayLevel: [2021.07.29-02.34.03:285][  0]LogInit: Display: Starting Game.
+[2021.07.29-02.34.04:254][381]LogPlayLevel: [2021.07.29-02.34.03:863][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.29-02.34.05:256][384]LogPlayLevel: [2021.07.29-02.34.04:134][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'The_House'.
+[2021.07.29-02.34.05:256][384]LogPlayLevel: [2021.07.29-02.34.05:166][  0]LogRHI: Display: ShaderPipelineCache: Paused Batching. 1
+[2021.07.29-02.34.05:256][384]LogPlayLevel: [2021.07.29-02.34.05:166][  0]LogRHI: Display: ShaderPipelineCache: Resumed Batching. 0
+[2021.07.29-02.34.05:256][384]LogPlayLevel: [2021.07.29-02.34.05:167][  0]LogRHI: Display: ShaderPipelineCache: Batching Resumed.
+[2021.07.29-02.34.06:933][389]LogPlayLevel: [2021.07.29-02.34.05:167][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.07.29-02.36.11:153][761]LogPlayLevel: [2021.07.29-02.34.06:787][ 71]LogStreaming: Display: UWorld::AddToWorld: routing Initialize on actors for /Game/Levels/House_1 took (less than) 21.00 ms
+[2021.07.29-02.36.11:820][763]LogPlayLevel: [2021.07.29-02.36.11:052][548]LogInit: Display: PreExit Game.
+[2021.07.29-02.36.11:821][763]LogPlayLevel: [2021.07.29-02.36.11:555][548]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2021.07.29-02.36.11:821][763]LogPlayLevel: [2021.07.29-02.36.11:555][548]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2021.07.29-02.36.11:821][763]LogPlayLevel: [2021.07.29-02.36.11:556][548]LogAudio: Display: Audio Device unregistered from world 'The_House'.
+[2021.07.29-02.36.11:821][763]LogPlayLevel: [2021.07.29-02.36.11:621][548]LogAudio: Display: Audio Device Manager Shutdown
+[2021.07.29-02.36.13:646][881]LogPlayLevel: [2021.07.29-02.36.11:643][548]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.07.29-02.36.13:713][885]LogPlayLevel: [2021.07.29-02.36.13:634][548]LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.07.29-02.36.14:548][940]LogPlayLevel: [2021.07.29-02.36.13:702][548]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.07.29-02.36.14:548][940]LogPlayLevel: Unable to read VR Path Registry from C:\Users\exres\AppData\Local\openvr\openvrpaths.vrpath
+[2021.07.29-02.36.14:548][940]LogPlayLevel: Unable to read VR Path Registry from C:\Users\exres\AppData\Local\openvr\openvrpaths.vrpath
+[2021.07.29-02.36.14:565][941]LogPlayLevel: Unable to read VR Path Registry from C:\Users\exres\AppData\Local\openvr\openvrpaths.vrpath
+[2021.07.29-02.36.14:565][941]LogPlayLevel: ********** RUN COMMAND COMPLETED **********
+[2021.07.29-02.36.14:565][941]LogPlayLevel: BUILD SUCCESSFUL
+[2021.07.29-02.36.14:726][951]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 179.512419
+[2021.07.29-02.36.15:235][985]LogPlayLevel: Completed Launch On Stage: Build Task, Time: 0.000051
+[2021.07.29-02.36.15:734][ 19]LogPlayLevel: Completed Launch On Stage: Deploy Task, Time: 0.000046
+[2021.07.29-02.36.16:241][ 51]LogPlayLevel: Completed Launch On Stage: Run Task, Time: 0.000095
+[2021.07.29-02.36.16:760][ 84]LogPlayLevel: Completed Launch On Stage: Post Launch Task, Time: 0.000012
+[2021.07.29-02.36.16:760][ 84]LogPlayLevel: AutomationTool exiting with ExitCode=0 (Success)
+
+[2021.07.29-02.36.16:760][ 84]LogPlayLevel: Launch On Completed. Time: 210.981266
+[2021.07.29-02.38.31:782][203]BlueprintLog: New page: Compilar House_1
+[2021.07.29-02.38.31:938][203]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2021.07.29-02.38.32:616][220]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.38.32:647][220]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.07.29-02.38.32:858][220]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1E53219AD4D4D73B058BEC8A0C6D9AC15.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.38.32:860][220]LogFileHelpers: Saving map 'House_1' took 0.244
+[2021.07.29-02.38.32:897][220]AssetCheck: New page: Asset Save: House_1
+[2021.07.29-02.38.32:897][220]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.38.35:442][320]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.38.35:450][320]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.38.35:450][320]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:38:35)
+[2021.07.29-02.38.35:450][320]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.38.35:452][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002018s)
+[2021.07.29-02.38.35:453][320]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.38.35:453][320]LogPlayLevel: PIE: World Init took: (0.001248s)
+[2021.07.29-02.38.35:453][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003408s)
+[2021.07.29-02.38.35:481][320]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.07.29-02.38.35:483][320]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.07.29-02.38.35:483][320]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.38.35:483][320]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.38.35:483][320]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.38.35:483][320]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.38.35:483][320]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.38.35:483][320]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.38.35:483][320]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.38.35:483][320]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.38.35:483][320]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.38.35:483][320]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.38.35:488][320]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.38.35:488][320]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.38.35:500][320]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.38.35:500][320]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.38.35:500][320]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.38.35:500][320]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.38.35:501][320]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.38.35:501][320]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.38.35:501][320]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.38.35:521][320]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.38.35:521][320]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.38.35:521][320]LogInit: FAudioDevice initialized.
+[2021.07.29-02.38.35:521][320]LogAudio: Display: Audio Device (ID: 32) registered with world 'The_House'.
+[2021.07.29-02.38.35:533][320]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.38.35:534][320]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.38.35
+[2021.07.29-02.38.35:534][320]LogWorld: Bringing up level for play took: 0.000447
+[2021.07.29-02.38.35:535][320]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.07.29-02.38.35:538][320]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.38.35:538][320]PIE: Servidor conectado
+[2021.07.29-02.38.35:539][320]PIE: Play in editor total start time 0,09 seconds.
+[2021.07.29-02.38.59:842][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.38.59:843][542]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.38.59:844][542]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.38.59:844][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.38.59:863][542]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.38.59:889][542]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.38.59:916][542]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.29-02.38.59:917][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.38.59:918][542]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.38.59:938][542]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.38.59:944][542]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.07.29-02.39.00:024][543]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.07.29-02.39.00:054][543]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2021.07.29-02.39.31:541][230]BlueprintLog: New page: Compilar House_1
+[2021.07.29-02.39.31:641][230]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.07.29-02.39.32:312][251]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.39.32:340][251]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.07.29-02.39.32:523][251]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_12202E08547F14A6A53EE78BCA374CE52.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.39.32:525][251]LogFileHelpers: Saving map 'House_1' took 0.213
+[2021.07.29-02.39.32:539][251]AssetCheck: New page: Asset Save: House_1
+[2021.07.29-02.39.32:539][251]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.39.38:888][626]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.39.38:896][626]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.39.38:896][626]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:39:38)
+[2021.07.29-02.39.38:896][626]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.39.38:898][626]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001971s)
+[2021.07.29-02.39.38:899][626]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.39.38:899][626]LogPlayLevel: PIE: World Init took: (0.001126s)
+[2021.07.29-02.39.38:899][626]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003228s)
+[2021.07.29-02.39.38:927][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.07.29-02.39.38:928][626]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.07.29-02.39.38:928][626]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.39.38:929][626]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.39.38:929][626]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.39.38:929][626]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.39.38:929][626]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.39.38:929][626]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.39.38:929][626]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.39.38:929][626]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.39.38:929][626]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.39.38:929][626]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.39.38:934][626]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.39.38:934][626]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.39.38:945][626]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.39.38:945][626]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.39.38:945][626]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.39.38:945][626]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.39.38:946][626]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.39.38:946][626]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.39.38:946][626]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.39.38:967][626]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.39.38:967][626]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.39.38:967][626]LogInit: FAudioDevice initialized.
+[2021.07.29-02.39.38:968][626]LogAudio: Display: Audio Device (ID: 33) registered with world 'The_House'.
+[2021.07.29-02.39.38:976][626]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.39.38:977][626]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.39.38
+[2021.07.29-02.39.38:977][626]LogWorld: Bringing up level for play took: 0.000430
+[2021.07.29-02.39.38:977][626]LogOnline: OSS: Creating online subsystem instance for: :Context_39
+[2021.07.29-02.39.38:980][626]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.39.38:981][626]PIE: Servidor conectado
+[2021.07.29-02.39.38:982][626]PIE: Play in editor total start time 0,087 seconds.
+[2021.07.29-02.40.04:012][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.40.04:013][426]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.40.04:014][426]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.40.04:014][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.40.04:024][426]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.40.04:050][426]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.40.04:078][426]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.29-02.40.04:078][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.40.04:080][426]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.40.04:099][426]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.40.04:105][426]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2021.07.29-02.40.04:170][427]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2021.07.29-02.40.04:199][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.07.29-02.40.18:347][227]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find symbols for 'UKismetMathLibrary::LessEqual_FloatFloat' [Elemento não encontrado.]
+[2021.07.29-02.40.21:736][417]BlueprintLog: New page: Compilar House_1
+[2021.07.29-02.40.21:837][417]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.07.29-02.40.22:401][432]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.29-02.40.22:430][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.07.29-02.40.22:616][432]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1CC47D6FB4C6E3CE863CC8D9570793898.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.29-02.40.22:617][432]LogFileHelpers: Saving map 'House_1' took 0.217
+[2021.07.29-02.40.22:630][432]AssetCheck: New page: Asset Save: House_1
+[2021.07.29-02.40.22:630][432]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.29-02.40.23:675][489]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.29-02.40.23:682][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.29-02.40.23:682][489]PIE: New page: Sessão de PIE : The_House (28 de jul de 2021 20:40:23)
+[2021.07.29-02.40.23:682][489]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.40.23:684][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001861s)
+[2021.07.29-02.40.23:685][489]LogAIModule: Creating AISystem for world The_House
+[2021.07.29-02.40.23:685][489]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2021.07.29-02.40.23:686][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.003078s)
+[2021.07.29-02.40.23:713][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2021.07.29-02.40.23:714][489]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.07.29-02.40.23:715][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.29-02.40.23:715][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.29-02.40.23:715][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.29-02.40.23:715][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.29-02.40.23:715][489]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.29-02.40.23:715][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.29-02.40.23:715][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.29-02.40.23:715][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.29-02.40.23:715][489]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.29-02.40.23:715][489]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.29-02.40.23:720][489]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.29-02.40.23:720][489]LogAudioMixer: Display: 1: FrontRight
+[2021.07.29-02.40.23:731][489]LogAudioMixer: Display: Using Audio Device Alto-falantes (USB Audio Device)
+[2021.07.29-02.40.23:731][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.29-02.40.23:731][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.29-02.40.23:731][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.29-02.40.23:732][489]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.29-02.40.23:732][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.29-02.40.23:732][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.29-02.40.23:751][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.29-02.40.23:751][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.29-02.40.23:751][489]LogInit: FAudioDevice initialized.
+[2021.07.29-02.40.23:751][489]LogAudio: Display: Audio Device (ID: 34) registered with world 'The_House'.
+[2021.07.29-02.40.23:760][489]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.29-02.40.23:761][489]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.28-23.40.23
+[2021.07.29-02.40.23:761][489]LogWorld: Bringing up level for play took: 0.000422
+[2021.07.29-02.40.23:761][489]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.07.29-02.40.23:765][489]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.29-02.40.23:765][489]PIE: Servidor conectado
+[2021.07.29-02.40.23:766][489]PIE: Play in editor total start time 0,084 seconds.
+[2021.07.29-02.40.49:502][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.40.49:502][372]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.29-02.40.49:503][372]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.29-02.40.49:503][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.40.49:515][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.29-02.40.49:541][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.29-02.40.49:567][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.29-02.40.49:567][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.40.49:568][372]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.29-02.40.49:595][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.07.29-02.40.49:658][373]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.07.29-02.40.49:688][373]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2021.07.29-02.40.52:685][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
