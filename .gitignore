@@ -4,3 +4,5 @@ UE/Saved/AutoScreenshot.png
 
 *.ini
 *.log
+UE/Saved/Logs/Timeloop.log
+*.log
