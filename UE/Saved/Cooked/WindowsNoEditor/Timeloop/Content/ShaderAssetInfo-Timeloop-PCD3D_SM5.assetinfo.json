@@ -241,33 +241,34 @@
 		{
 			"ShaderMapHash": "DA59E3F9447EC65312D6D854FE96C3EC75CF2113",
 			"Assets": [
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Materials/C12.uasset",
 				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Materials/Wood.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/lambert1.uasset",
 				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Materials/Blue.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Bedroom_Boy_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Master_Bedroom_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/tv_room_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Kitchen_tasks_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Storeroom_textures.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Bathrooms_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Guardrail_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Dog_Task_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Dining_Room_and_Corridor_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Kitchen_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Meshes/Storeroom_textures.uasset"
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Meshes/Storeroom_textures.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Materials/C12.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/lambert1.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1993/tv_room_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1993/Storeroom_textures.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1993/Master_Bedroom_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1993/lambert24.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1993/lambert23.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1993/Kitchen_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1993/Kitchen_tasks_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1993/Dining_Room_and_Corridor_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1993/christmas_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1993/Bedroom_Boy_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1993/Bathrooms_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EA6CD9360B5E8F7E61E54A141C832D8110351DEA",
+			"Assets": [
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Materials/Highlight.uasset"
 			]
 		},
 		{
 			"ShaderMapHash": "AD1F5A7FF559E5F44A60BD4833C2CF5FEB9AF446",
 			"Assets": [
 				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Materials/Glass.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
-			"Assets": [
-				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
 			]
 		},
 		{
@@ -280,22 +281,10 @@
 			"ShaderMapHash": "C9C7244A501EB6BBF9DB21E42B52F5FF5D6804A1",
 			"Assets": [
 				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/wall_03_and_04_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/wall_01_and_02_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/wall_05_kitchen_bathroom_storeroom_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/second_floor_rooms_texture.uasset",
 				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/roof_texture.uasset",
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/second_floor_rooms_texture.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "AD3058810825BB855176512149010DB9967A8631",
-			"Assets": [
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/first_floor_and_stairs_texture.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "D6A01A71C110F778113B3763CFE03BB857C2656B",
-			"Assets": [
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/second_floor_texture.uasset"
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/90_wall_03_and_04_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/90_second_floor_rooms_texture.uasset"
 			]
 		},
 		{
@@ -311,27 +300,88 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A8E593D530597CB87355800679A19D3E8FFBB9B8",
+			"ShaderMapHash": "B42C73DAA81FFE10E75609A236B122BF9DC3292D",
 			"Assets": [
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/FirstPerson/Meshes/BaseMaterial.uasset"
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Materials/HUD_Textures/Carta_01_Mat.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "7DC9AD995DCE9E9E177A42D050307C57A502C753",
+			"ShaderMapHash": "640633B9318E822714816B3605652574E8A057EA",
 			"Assets": [
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/FirstPerson/FPWeapon/Materials/M_FPGun.uasset"
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Materials/3DCam_Mat.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "5955D31DA1D64305C4B656F257539CF680F15414",
+			"ShaderMapHash": "C9B1EF103DB50CEEEC3C3284362F222A848EFF44",
 			"Assets": [
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/FirstPerson/Character/Materials/M_UE4Man_Body.uasset"
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/wall_05_kitchen_bathroom_storeroom_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/wall_01_and_02_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/90_wall_05_kitchen_bathroom_storeroom_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/90_wall_01_and_02_texture.uasset"
 			]
 		},
 		{
-			"ShaderMapHash": "EA6CD9360B5E8F7E61E54A141C832D8110351DEA",
+			"ShaderMapHash": "7DCEC805F3B065E18E30548E396F52A5BBE3CFF8",
 			"Assets": [
-				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Materials/Highlight.uasset"
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/first_floor_and_stairs_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/90_first_floor_and_stairs_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/Storeroom_textures.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/Master_Bedroom_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Master_Bedroom_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/Kitchen_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Kitchen_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/Guardrail_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Guardrail_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/Bathrooms_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Bathrooms_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/Curtain.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Door_Boy.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Door.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D6667BACC5262E7E282173986FF3DD3BFC89C2E2",
+			"Assets": [
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/second_floor_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AD3058810825BB855176512149010DB9967A8631",
+			"Assets": [
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/House/90_second_floor_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/door_frame_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/Dog_Task_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Dog_Task_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0538346C338D7443DA61F56827D771C23A460D2F",
+			"Assets": [
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/tv_room_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/tv_room_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EBBCA58E46D7D35A989957EA4F65B128C9FDD91A",
+			"Assets": [
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/Trash_Task_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Trash_Task_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "352893247A6E535C4CB2DEA3E93F028151879E7E",
+			"Assets": [
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/Kitchen_tasks_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Kitchen_tasks_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/Dining_Room_and_Corridor_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Dining_Room_and_Corridor_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1E3B6AAC2B579558550376AB56E283DFE7D7C640",
+			"Assets": [
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture_1978/Bedroom_Boy_texture.uasset",
+				"../../../../../../Workspace/PROG/SWAT-Bot/prototipo-jaaj-timeloop/UE/Content/Geometry/TimeLoop/Furniture/Bedroom_Boy_texture.uasset"
 			]
 		}
 	]
