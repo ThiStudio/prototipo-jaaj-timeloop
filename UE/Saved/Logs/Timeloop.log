@@ -4651,3 +4651,1273 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.31-18.46.35:212][504]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
 [2021.07.31-18.46.35:212][504]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
 [2021.07.31-18.46.35:212][504]LogContentValidation: Display: Validating World /Game/Levels/House_3.House_3
+[2021.07.31-18.56.45:926][470]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.31-18.56.45:933][470]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.31-18.56.45:933][470]PIE: New page: PIE session: The_House (Jul 31, 2021, 12:56:45 PM)
+[2021.07.31-18.56.45:934][470]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.56.45:938][470]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004285s)
+[2021.07.31-18.56.45:939][470]LogAIModule: Creating AISystem for world The_House
+[2021.07.31-18.56.45:939][470]LogPlayLevel: PIE: World Init took: (0.001418s)
+[2021.07.31-18.56.45:940][470]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.005918s)
+[2021.07.31-18.56.45:976][470]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.07.31-18.56.45:981][470]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2021.07.31-18.56.45:981][470]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.31-18.56.45:981][470]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.31-18.56.45:981][470]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.31-18.56.45:981][470]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.31-18.56.45:981][470]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.31-18.56.45:981][470]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.31-18.56.45:981][470]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.31-18.56.45:981][470]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.31-18.56.45:982][470]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.31-18.56.45:982][470]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.31-18.56.45:987][470]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.31-18.56.45:987][470]LogAudioMixer: Display: 1: FrontRight
+[2021.07.31-18.56.46:007][470]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2021.07.31-18.56.46:007][470]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.31-18.56.46:007][470]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.31-18.56.46:007][470]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.31-18.56.46:009][470]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.31-18.56.46:009][470]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.31-18.56.46:009][470]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.31-18.56.46:028][470]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.31-18.56.46:028][470]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.31-18.56.46:028][470]LogInit: FAudioDevice initialized.
+[2021.07.31-18.56.46:028][470]LogAudio: Display: Audio Device (ID: 33) registered with world 'The_House'.
+[2021.07.31-18.56.46:037][470]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.31-18.56.46:037][470]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.31-15.56.46
+[2021.07.31-18.56.46:038][470]LogWorld: Bringing up level for play took: 0.000514
+[2021.07.31-18.56.46:038][470]LogOnline: OSS: Creating online subsystem instance for: :Context_44
+[2021.07.31-18.56.46:041][470]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.31-18.56.46:041][470]PIE: Server logged in
+[2021.07.31-18.56.46:042][470]PIE: Play in editor total start time 0.11 seconds.
+[2021.07.31-18.56.56:036][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.56.56:036][939]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.56.56:037][939]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-18.56.56:038][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.56.56:050][939]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.31-18.56.56:082][939]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.56.56:112][939]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.56.56:112][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.56.56:113][939]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.56.56:145][939]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.07.31-18.56.56:276][940]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2021.07.31-18.56.56:311][940]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.07.31-18.56.59:067][ 45]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/House_1.House_1:PersistentLevel.House_1
+[2021.07.31-18.58.03:807][410]BlueprintLog: New page: Compile House_1
+[2021.07.31-18.58.03:958][410]LogUObjectHash: Compacting FUObjectHashTables data took   5.04ms
+[2021.07.31-18.58.04:477][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.58.04:513][425]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2021.07.31-18.58.04:837][425]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1CDA7EB0844C6D8A9729D4790C9953C02.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.31-18.58.04:839][425]LogFileHelpers: Saving map 'House_1' took 0.362
+[2021.07.31-18.58.04:855][425]AssetCheck: New page: Asset Save: House_1
+[2021.07.31-18.58.04:855][425]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.31-18.58.27:158][688]BlueprintLog: New page: Compile House_1
+[2021.07.31-18.58.27:308][688]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2021.07.31-18.58.27:824][705]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.58.27:861][705]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.07.31-18.58.28:183][705]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1649CC48941F8085976A3948B32F22D3C.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.31-18.58.28:184][705]LogFileHelpers: Saving map 'House_1' took 0.361
+[2021.07.31-18.58.28:201][705]AssetCheck: New page: Asset Save: House_1
+[2021.07.31-18.58.28:202][705]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.31-19.00.29:506][790]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\Projects\Timeloop Backup\TimeLoop\1993_Task_03.png)
+[2021.07.31-19.00.29:597][790]LogTexture: Display: Building textures: 1993_Task_03 (BGRA8, 866X748)
+[2021.07.31-19.00.29:658][790]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\Projects\Timeloop Backup\TimeLoop\1993_Task_04.png)
+[2021.07.31-19.00.29:671][790]LogTexture: Display: Building textures: 1993_Task_04 (BGRA8, 866X748)
+[2021.07.31-19.00.29:711][790]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\Projects\Timeloop Backup\TimeLoop\Carta_02.png)
+[2021.07.31-19.00.29:733][790]LogTexture: Display: Building textures: Carta_02 (BGRA8, 866X1080)
+[2021.07.31-19.00.29:770][790]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\Projects\Timeloop Backup\TimeLoop\HUD_Tasks_2.png)
+[2021.07.31-19.00.29:785][790]LogTexture: Display: Building textures: HUD_Tasks_2 (BGRA8, 866X748)
+[2021.07.31-19.00.29:812][790]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\Projects\Timeloop Backup\TimeLoop\1993_Task_01.png)
+[2021.07.31-19.00.29:823][790]LogTexture: Display: Building textures: 1993_Task_01 (BGRA8, 866X748)
+[2021.07.31-19.00.29:851][790]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 A:\Projects\Timeloop Backup\TimeLoop\1993_Task_02.png)
+[2021.07.31-19.00.29:865][790]LogTexture: Display: Building textures: 1993_Task_02 (BGRA8, 866X748)
+[2021.07.31-19.00.36:226][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.00.36:260][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.07.31-19.00.36:586][813]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_121A8187A470A8A7BFC52A8AE7E468C31.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.31-19.00.36:590][813]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.31-19.00.36:699][813]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData71C6F0DC4FA7101A221FDD9264592CF5.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.31-19.00.36:719][813]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.31-19.00.36:719][813]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.31-19.00.36:719][813]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.31-19.00.54:792][708]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-19.00.54:792][708]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.01.17:758][647]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/House_2.House_2:PersistentLevel.House_2
+[2021.07.31-19.01.49:769][336]BlueprintLog: New page: Compile House_2
+[2021.07.31-19.01.49:902][336]LogUObjectHash: Compacting FUObjectHashTables data took   4.56ms
+[2021.07.31-19.01.50:619][368]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.01.50:654][368]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.07.31-19.01.50:904][368]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_28502289142D9A9BE2080EBB8A9E12312.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.01.50:905][368]LogFileHelpers: Saving map 'House_2' took 0.287
+[2021.07.31-19.01.50:930][368]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.01.50:930][368]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.02.01:551][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (task'Recado)
+[2021.07.31-19.02.11:324][483]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.02.11:356][483]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 12
+[2021.07.31-19.02.11:356][483]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.31-19.02.11:356][483]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.07.31-19.02.11:356][483]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 6
+[2021.07.31-19.02.11:356][483]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2021.07.31-19.02.11:356][483]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 2
+[2021.07.31-19.02.11:391][483]LogMaterial: Display: Material /Game/Materials/HUD_Textures/Carta_02_Mat.Carta_02_Mat needed to have new flag set bUsedWithStaticLighting !
+[2021.07.31-19.02.11:392][483]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.02.11:408][483]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2021.07.31-19.02.11:408][483]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 19
+[2021.07.31-19.02.11:408][483]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 17
+[2021.07.31-19.02.11:408][483]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2021.07.31-19.02.11:472][484]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.07.31-19.02.11:472][484]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.07.31-19.02.14:075][521]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 9
+[2021.07.31-19.02.14:830][529]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.07.31-19.02.15:089][532]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 7
+[2021.07.31-19.02.15:090][532]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.07.31-19.02.15:148][532]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 5
+[2021.07.31-19.02.15:176][532]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/HUD_Textures/Carta_02_Mat.Carta_02_Mat
+[2021.07.31-19.02.15:232][532]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.02.15:400][532]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 4
+[2021.07.31-19.02.15:400][532]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 3
+[2021.07.31-19.02.15:422][532]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 2
+[2021.07.31-19.02.15:422][532]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.07.31-19.02.16:554][532]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.02.16:605][532]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.31-19.02.16:605][532]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.31-19.02.16:605][532]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.31-19.02.16:605][532]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.31-19.02.16:605][532]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.31-19.02.16:605][532]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.31-19.02.16:605][532]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.31-19.02.16:605][532]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.31-19.02.16:605][532]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.31-19.02.16:605][532]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.31-19.02.16:605][532]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.31-19.02.16:607][532]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.02.16:639][532]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.07.31-19.02.16:654][532]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.07.31-19.02.17:741][535]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2021.07.31-19.02.17:906][537]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.07.31-19.02.17:971][538]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 12
+[2021.07.31-19.02.18:156][541]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 11
+[2021.07.31-19.02.18:369][544]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 10
+[2021.07.31-19.02.18:440][545]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 9
+[2021.07.31-19.02.18:440][545]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 8
+[2021.07.31-19.02.18:576][547]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.07.31-19.02.18:710][548]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2021.07.31-19.02.18:711][548]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.07.31-19.02.18:782][549]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 4
+[2021.07.31-19.02.18:782][549]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 3
+[2021.07.31-19.02.18:927][551]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.07.31-19.02.19:510][558]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.31-19.02.20:095][564]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.02.20:113][564]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 11
+[2021.07.31-19.02.20:113][564]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.07.31-19.02.20:113][564]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.07.31-19.02.20:113][564]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.07.31-19.02.20:113][564]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 7
+[2021.07.31-19.02.20:113][564]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2021.07.31-19.02.20:113][564]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.07.31-19.02.20:198][564]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.07.31-19.02.20:198][564]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2021.07.31-19.02.20:198][564]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.07.31-19.02.20:199][564]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 1
+[2021.07.31-19.02.21:902][593]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.07.31-19.02.21:902][593]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.07.31-19.02.21:902][593]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.07.31-19.02.21:902][593]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.31-19.02.21:902][593]MaterialEditorStats: Texture samplers: 3/16
+[2021.07.31-19.02.21:902][593]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.07.31-19.02.21:902][593]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.31-19.02.23:664][679]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.02.23:685][679]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 11
+[2021.07.31-19.02.23:685][679]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 10
+[2021.07.31-19.02.23:685][679]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2021.07.31-19.02.23:685][679]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.31-19.02.23:685][679]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2021.07.31-19.02.23:685][679]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 6
+[2021.07.31-19.02.23:685][679]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 5
+[2021.07.31-19.02.23:685][679]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 4
+[2021.07.31-19.02.23:685][679]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.31-19.02.23:685][679]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 2
+[2021.07.31-19.02.23:685][679]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 1
+[2021.07.31-19.02.23:695][679]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.02.23:741][679]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.02.23:752][679]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.07.31-19.02.25:036][691]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 10
+[2021.07.31-19.02.25:036][691]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 9
+[2021.07.31-19.02.25:036][691]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 8
+[2021.07.31-19.02.25:339][696]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 7
+[2021.07.31-19.02.25:549][699]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 6
+[2021.07.31-19.02.25:614][700]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 5
+[2021.07.31-19.02.25:732][702]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.07.31-19.02.25:733][702]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.07.31-19.02.25:733][702]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2021.07.31-19.02.25:795][703]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 1
+[2021.07.31-19.02.26:975][727]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.07.31-19.02.26:975][727]MaterialEditorStats: Base pass shader with Surface Lightmap: 147 instructions
+[2021.07.31-19.02.26:975][727]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.07.31-19.02.26:975][727]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.07.31-19.02.26:975][727]MaterialEditorStats: Texture samplers: 3/16
+[2021.07.31-19.02.26:975][727]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.07.31-19.02.26:975][727]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.31-19.02.29:572][870]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 28
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 27
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 24
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 23
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 19
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 18
+[2021.07.31-19.02.29:654][870]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 17
+[2021.07.31-19.02.29:654][870]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.07.31-19.02.30:378][879]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 20
+[2021.07.31-19.02.30:379][879]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 19
+[2021.07.31-19.02.30:379][879]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 18
+[2021.07.31-19.02.30:560][881]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 17
+[2021.07.31-19.02.30:561][881]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 16
+[2021.07.31-19.02.30:587][881]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 15
+[2021.07.31-19.02.30:630][881]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 14
+[2021.07.31-19.02.30:743][883]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 13
+[2021.07.31-19.02.30:800][884]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 12
+[2021.07.31-19.02.31:084][887]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 11
+[2021.07.31-19.02.31:215][889]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 10
+[2021.07.31-19.02.31:215][889]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.07.31-19.02.31:233][889]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 8
+[2021.07.31-19.02.31:564][892]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 7
+[2021.07.31-19.02.31:564][892]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.07.31-19.02.31:630][893]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.07.31-19.02.31:702][894]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 4
+[2021.07.31-19.02.31:989][897]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 3
+[2021.07.31-19.02.32:165][900]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 2
+[2021.07.31-19.02.32:250][901]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 1
+[2021.07.31-19.02.33:025][922]MaterialEditorStats: Base pass shader: 123 instructions
+[2021.07.31-19.02.33:025][922]MaterialEditorStats: Base pass shader with Surface Lightmap: 150 instructions
+[2021.07.31-19.02.33:025][922]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 197 instructions
+[2021.07.31-19.02.33:025][922]MaterialEditorStats: Base pass vertex shader: 51 instructions
+[2021.07.31-19.02.33:025][922]MaterialEditorStats: Texture samplers: 3/16
+[2021.07.31-19.02.33:025][922]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.07.31-19.02.33:025][922]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.07.31-19.02.48:235][770]MapCheck: New page: Map Check
+[2021.07.31-19.02.48:287][770]Cmd: MAP REBUILD ALLVISIBLE
+[2021.07.31-19.02.48:297][770]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.07.31-19.02.48:668][770]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=false
+[2021.07.31-19.02.48:674][770]LogWorld: UWorld::CleanupWorld for House_1, bSessionEnded=true, bCleanupResources=false
+[2021.07.31-19.02.48:674][770]LogWorld: UWorld::CleanupWorld for House_2, bSessionEnded=true, bCleanupResources=false
+[2021.07.31-19.02.48:674][770]LogWorld: UWorld::CleanupWorld for House_3, bSessionEnded=true, bCleanupResources=false
+[2021.07.31-19.02.48:823][770]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.07.31-19.02.48:824][770]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.07.31-19.02.48:824][770]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.07.31-19.02.48:912][770]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2021.07.31-19.02.48:933][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:966][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:968][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.07.31-19.02.48:968][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.07.31-19.02.48:968][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:971][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:973][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:975][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:978][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 10
+[2021.07.31-19.02.48:978][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 9
+[2021.07.31-19.02.48:978][770]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 8
+[2021.07.31-19.02.48:978][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 7
+[2021.07.31-19.02.48:978][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2021.07.31-19.02.48:978][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 5
+[2021.07.31-19.02.48:978][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 4
+[2021.07.31-19.02.48:978][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 3
+[2021.07.31-19.02.48:978][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 2
+[2021.07.31-19.02.48:978][770]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 1
+[2021.07.31-19.02.48:978][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:980][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:983][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:987][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:991][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:994][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.48:997][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:001][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:005][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:012][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:016][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:019][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:023][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:026][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:029][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:032][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:034][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:037][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:039][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:042][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:045][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:048][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:050][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:052][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:055][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:057][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:059][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:061][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:064][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:066][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:069][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:071][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:074][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:076][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:080][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:084][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:087][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:090][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:093][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:096][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:099][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:103][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:106][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:109][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:112][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:115][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:118][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:121][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:124][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:128][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:130][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:134][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:138][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.49:143][770]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 108
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 107
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 106
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 105
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 104
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 103
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 102
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 101
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 100
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 99
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 98
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 97
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 96
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 95
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 94
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 93
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 92
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 91
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 90
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 89
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 88
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 87
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 86
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 85
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 84
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 83
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 82
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 81
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 80
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 79
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 78
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 77
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 76
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 75
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 74
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 73
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 72
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 71
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 70
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 69
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 68
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 67
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 66
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 65
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 64
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 63
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 62
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 61
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 60
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 59
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 58
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 57
+[2021.07.31-19.02.55:451][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 56
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 55
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 54
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 53
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 52
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 51
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 50
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 49
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 48
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 47
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 46
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 45
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 44
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 43
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 42
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 41
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 40
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 39
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 38
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 37
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 36
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 35
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 34
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 33
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 32
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 31
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 30
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 29
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 28
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 27
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 25
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 24
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 23
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 22
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 21
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 20
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 19
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 18
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 17
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 15
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 13
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 12
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 11
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 10
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 8
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 7
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 6
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 5
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.07.31-19.02.55:452][770]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.07.31-19.02.55:452][770]TextureStreamingBuild: Display: Compiling optional shaders took 6.529 seconds.
+[2021.07.31-19.02.55:549][770]LogLevel: Display: Export Material TexCoord Scales took 0.082 seconds.
+[2021.07.31-19.02.55:577][770]TextureStreamingBuild: Display: Build Texture Streaming took 0.028 seconds.
+[2021.07.31-19.02.55:614][770]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.07.31-19.02.55:680][770]LightingResults: New page: Lighting Build - Jul 31, 2021, 1:02:55 PM
+[2021.07.31-19.02.55:746][770]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.07.31-19.02.55:762][770]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.07.31-19.02.55:766][770]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.07.31-19.02.55:779][770]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.07.31-19.02.55:779][770]LogSwarmInterface: [TryOpenConnection] Local Process ID is 8268
+[2021.07.31-19.03.00:351][770]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2021.07.31-19.03.00:372][770]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.07.31-19.03.00:372][770]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.07.31-19.03.00:372][770]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.07.31-19.03.00:372][770]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.07.31-19.03.00:372][770]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.07.31-19.03.00:651][770]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.07.31-19.03.00:673][770]MapCheck: New page: The_House - Jul 31, 2021, 1:03:00 PM
+[2021.07.31-19.03.00:674][770]MapCheck: Error: WorldSettings Maps need lighting rebuilt 
+[2021.07.31-19.03.00:704][770]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 33.117ms to complete.
+[2021.07.31-19.03.00:716][770]LogEditorBuildUtils: Build time 0:12
+[2021.07.31-19.03.01:435][771]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Carta_02_Mat, compiling. 
+[2021.07.31-19.03.01:449][771]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Carta_02_Mat, compiling. 
+[2021.07.31-19.03.01:493][771]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 4
+[2021.07.31-19.03.01:493][771]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 3
+[2021.07.31-19.03.01:493][771]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 2
+[2021.07.31-19.03.01:495][771]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 1
+[2021.07.31-19.03.02:209][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.07.31-19.03.13:954][120]LightingResults: Warning: House_Furniture_1993_toy_box Object has overlapping UVs.
+[2021.07.31-19.03.13:954][120]LightingResults: House_Furniture_1993_toy_box Lightmap UV are overlapping by 6.3%. Please adjust content - Enable Error Coloring to visualize.
+[2021.07.31-19.03.16:152][188]Job is a success!
+[2021.07.31-19.03.16:486][189]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.030s
+[2021.07.31-19.03.16:486][189]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.07.31-19.03.16:486][189]LogVolumetricLightmapImport:      BrickData (all levels) 0.4Mb
+[2021.07.31-19.03.16:486][189]LogVolumetricLightmapImport:      Bricks at depth
+[2021.07.31-19.03.16:486][189]LogVolumetricLightmapImport:          0: 1.1% covering 100.0% of volume
+[2021.07.31-19.03.16:486][189]LogVolumetricLightmapImport:          1: 5.3% covering 7.8% of volume
+[2021.07.31-19.03.16:486][189]LogVolumetricLightmapImport:          2: 93.6% covering 2.1% of volume
+[2021.07.31-19.03.16:486][189]LogVolumetricLightmapImport:      Bricks in each level
+[2021.07.31-19.03.16:486][189]LogVolumetricLightmapImport:          The_House 			 6 bricks 	 6.4% (Persistent Level)
+[2021.07.31-19.03.16:486][189]LogVolumetricLightmapImport:          House_2 			 25 bricks 	 26.6%
+[2021.07.31-19.03.16:487][189]LogVolumetricLightmapImport:          House_1 			 38 bricks 	 40.4%
+[2021.07.31-19.03.16:487][189]LogVolumetricLightmapImport:          House_3 			 25 bricks 	 26.6%
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight9 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight_1 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:851][189]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:852][189]LightingResults: Warning: PointLight2 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:852][189]LightingResults: Warning: PointLight3 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:852][189]LightingResults: Warning: PointLight4 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:852][189]LightingResults: Warning: PointLight5 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:852][189]LightingResults: Warning: PointLight6 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:852][189]LightingResults: Warning: PointLight7 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.16:852][189]LightingResults: Warning: PointLight8 Severe performance loss: Failed to allocate shadowmap channel for stationary light due to overlap - light will fall back to dynamic shadows!
+[2021.07.31-19.03.17:902][189]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2021.07.31-19.03.17:902][189]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2021.07.31-19.03.17:902][189]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2021.07.31-19.03.17:902][189]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2021.07.31-19.03.17:902][189]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 1024X1024)
+[2021.07.31-19.03.17:902][189]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 1024X1024)
+[2021.07.31-19.03.17:902][189]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2021.07.31-19.03.17:902][189]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2021.07.31-19.03.17:902][189]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2021.07.31-19.03.17:902][189]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2021.07.31-19.03.17:902][189]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 1024X1024)
+[2021.07.31-19.03.17:903][189]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 1024X1024)
+[2021.07.31-19.03.17:903][189]LogTexture: Display: Building textures: HQ_Lightmap0_7 (AutoDXT, 64X64)
+[2021.07.31-19.03.17:903][189]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (DXT1, 64X64)
+[2021.07.31-19.03.18:102][189]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 32X32)
+[2021.07.31-19.03.18:240][189]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2021.07.31-19.03.18:240][189]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (BGRA8, 1024X1024)
+[2021.07.31-19.03.18:240][189]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (BGRA8, 1024X1024)
+[2021.07.31-19.03.18:240][189]Lightmass on DESKTOP-DUTAEH4: 15.2 sec total, 2.83 sec importing, 109 ms setup, 1.11 sec photons, 11.1 sec processing, 0 ms extra exporting [377/377 mappings]. Threads: 2:46 min total, 1:49 min processing.
+[2021.07.31-19.03.18:240][189]LogStaticLightingSystem: House_1_BuiltData storing lightmap data for 122 meshes in 4 LightmapResourceClusters (30.5 Meshes per cluster).
+[2021.07.31-19.03.18:240][189]LogStaticLightingSystem: House_2_BuiltData storing lightmap data for 129 meshes in 4 LightmapResourceClusters (32.2 Meshes per cluster).
+[2021.07.31-19.03.18:240][189]LogStaticLightingSystem: House_3_BuiltData storing lightmap data for 125 meshes in 4 LightmapResourceClusters (31.2 Meshes per cluster).
+[2021.07.31-19.03.18:317][189]LogUObjectHash: Compacting FUObjectHashTables data took   4.42ms
+[2021.07.31-19.03.18:384][189]LogStaticLightingSystem: Illumination: 22.6 sec (1.05 sec encoding lightmaps, 308 ms encoding shadowmaps)
+[2021.07.31-19.03.18:384][189]LogStaticLightingSystem: Lightmap texture memory:  12.0 MB (12.0 MB streaming, 0.0 MB non-streaming), 14 textures
+[2021.07.31-19.03.18:384][189]LogStaticLightingSystem: Shadowmap texture memory: 16.0 MB (16.0 MB streaming, 0.0 MB non-streaming), 4 textures
+[2021.07.31-19.03.19:389][189]DumpUnbuiltLightIteractions
+[2021.07.31-19.03.19:389][189]Lights with unbuilt interactions: 0
+[2021.07.31-19.03.19:389][189]
+[2021.07.31-19.03.19:389][189]Primitives with unbuilt interactions: 0
+[2021.07.31-19.03.19:530][189]LogTexture: Display: Building textures: NewReflectionComponentTextureEB9CBE3C423008B5E8E130901E171C89 (BGRA8, 128X128)
+[2021.07.31-19.03.19:565][189]LogTexture: Display: Building textures: NewReflectionComponentTexture5B0EA62F410C06297E1689B5271C14AB (BGRA8, 128X128)
+[2021.07.31-19.03.19:599][189]LogTexture: Display: Building textures: NewReflectionComponentTexture90C52D4846EC93F33F26FF9B9FCC2C75 (BGRA8, 128X128)
+[2021.07.31-19.03.19:726][190]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.07.31-19.03.19:726][190]MapCheck: New page: The_House - Jul 31, 2021, 1:03:19 PM
+[2021.07.31-19.03.19:729][190]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.561ms to complete.
+[2021.07.31-19.03.36:575][ 55]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/House_1.House_1:PersistentLevel.House_1
+[2021.07.31-19.03.43:215][310]BlueprintLog: New page: Compile House_1
+[2021.07.31-19.03.43:367][310]LogUObjectHash: Compacting FUObjectHashTables data took   4.86ms
+[2021.07.31-19.03.43:900][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.03.43:940][326]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2021.07.31-19.03.44:268][326]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_18D8AB7F3449E7C1A0EBE63A4B9090CAB.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.31-19.03.44:270][326]LogFileHelpers: Saving map 'House_1' took 0.370
+[2021.07.31-19.03.44:428][326]AssetCheck: New page: Asset Save: House_1
+[2021.07.31-19.03.44:428][326]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.31-19.03.46:738][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.07.31-19.03.46:768][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/The_House" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/The_House.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.03.46:802][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.07.31-19.03.46:818][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/The_HouseD9689C21417544151EDCA293B8AABAF8.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/The_House.umap'
+[2021.07.31-19.03.46:826][430]LogFileHelpers: Saving map 'The_House' took 0.058
+[2021.07.31-19.03.46:827][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/The_House_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/The_House_BuiltData.uasset" SILENT=true
+[2021.07.31-19.03.46:830][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/The_House_BuiltDataFFB1872740DDD248B6446DBC971AF4EF.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/The_House_BuiltData.uasset'
+[2021.07.31-19.03.46:830][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset" SILENT=true
+[2021.07.31-19.03.46:950][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1_BuiltData0F93C46147EE11BF965C2E86B0975F52.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1_BuiltData.uasset'
+[2021.07.31-19.03.46:952][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.03.46:988][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.07.31-19.03.47:228][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_26C07DABE49873255F18CC5859B321D87.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.03.47:230][430]LogFileHelpers: Saving map 'House_2' took 0.278
+[2021.07.31-19.03.47:230][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2_BuiltData.uasset" SILENT=true
+[2021.07.31-19.03.47:329][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2_BuiltDataE9809A3C40D8C0892C24E29A3BA94926.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2_BuiltData.uasset'
+[2021.07.31-19.03.47:331][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_3" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.03.47:365][430]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.07.31-19.03.47:480][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_3466C22B74CC4161726FF21AF4C846933.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap'
+[2021.07.31-19.03.47:481][430]LogFileHelpers: Saving map 'House_3' took 0.151
+[2021.07.31-19.03.47:481][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_3_BuiltData" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_3_BuiltData.uasset" SILENT=true
+[2021.07.31-19.03.47:582][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_3_BuiltDataDBF7187A469037B77427578DB4761036.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_3_BuiltData.uasset'
+[2021.07.31-19.03.47:589][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HUD_Textures/1993_Task_03" FILE="../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/1993_Task_03.uasset" SILENT=true
+[2021.07.31-19.03.47:649][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/1993_Task_0304C8AC514AB994C7197CB488F7FE78C8.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/1993_Task_03.uasset'
+[2021.07.31-19.03.47:656][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HUD_Textures/1993_Task_04" FILE="../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/1993_Task_04.uasset" SILENT=true
+[2021.07.31-19.03.47:683][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/1993_Task_04423023304317E1C204E6388A6C0AD329.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/1993_Task_04.uasset'
+[2021.07.31-19.03.47:690][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HUD_Textures/Carta_02" FILE="../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/Carta_02.uasset" SILENT=true
+[2021.07.31-19.03.47:728][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/Carta_02191B79554C371D104515F59C29E1C844.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/Carta_02.uasset'
+[2021.07.31-19.03.47:735][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HUD_Textures/HUD_Tasks_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/HUD_Tasks_2.uasset" SILENT=true
+[2021.07.31-19.03.47:761][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/HUD_Tasks_2CB7F512E4DCB8965DE4FBA9C93655665.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/HUD_Tasks_2.uasset'
+[2021.07.31-19.03.47:769][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HUD_Textures/1993_Task_01" FILE="../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/1993_Task_01.uasset" SILENT=true
+[2021.07.31-19.03.47:782][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/1993_Task_0131E983964B095C0D42520497355442DA.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/1993_Task_01.uasset'
+[2021.07.31-19.03.47:789][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HUD_Textures/1993_Task_02" FILE="../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/1993_Task_02.uasset" SILENT=true
+[2021.07.31-19.03.47:805][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/1993_Task_02695302AA4D1FF7A9D56B79AF724D82B6.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/1993_Task_02.uasset'
+[2021.07.31-19.03.47:845][430]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HUD_Textures/Carta_02_Mat" FILE="../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/Carta_02_Mat.uasset" SILENT=true
+[2021.07.31-19.03.47:855][430]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/Carta_02_Mat662F308C44CA05BCE8113AB34C05CAAE.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/Carta_02_Mat.uasset'
+[2021.07.31-19.03.47:888][430]AssetCheck: New page: Asset Save: multiple assets
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/The_House_BuiltData.The_House_BuiltData
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating World /Game/Levels/The_House.The_House
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_1_BuiltData.House_1_BuiltData
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_2_BuiltData.House_2_BuiltData
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/House_3_BuiltData.House_3_BuiltData
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating World /Game/Levels/House_3.House_3
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating Material /Game/Materials/HUD_Textures/Carta_02_Mat.Carta_02_Mat
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating Texture2D /Game/Materials/HUD_Textures/1993_Task_02.1993_Task_02
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating Texture2D /Game/Materials/HUD_Textures/1993_Task_01.1993_Task_01
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating Texture2D /Game/Materials/HUD_Textures/HUD_Tasks_2.HUD_Tasks_2
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating Texture2D /Game/Materials/HUD_Textures/Carta_02.Carta_02
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating Texture2D /Game/Materials/HUD_Textures/1993_Task_04.1993_Task_04
+[2021.07.31-19.03.47:888][430]LogContentValidation: Display: Validating Texture2D /Game/Materials/HUD_Textures/1993_Task_03.1993_Task_03
+[2021.07.31-19.03.55:173][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (House_Base_first_floor)
+[2021.07.31-19.04.09:012][570]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-19.04.09:012][570]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.04.16:655][794]LogSlate: Window 'Message' being destroyed
+[2021.07.31-19.04.16:661][794]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Materials/HUD_Textures/Carta_02_Mat.Carta_02_Mat
+(Selecting 'No' will cause all changes to be lost!)
+[2021.07.31-19.04.18:319][794]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.04.18:421][794]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 28
+[2021.07.31-19.04.18:421][794]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 27
+[2021.07.31-19.04.18:422][794]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 26
+[2021.07.31-19.04.18:422][794]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 25
+[2021.07.31-19.04.18:422][794]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 24
+[2021.07.31-19.04.18:422][794]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 23
+[2021.07.31-19.04.18:422][794]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 22
+[2021.07.31-19.04.18:422][794]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2021.07.31-19.04.18:422][794]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 20
+[2021.07.31-19.04.18:422][794]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 19
+[2021.07.31-19.04.18:422][794]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 18
+[2021.07.31-19.04.18:422][794]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 17
+[2021.07.31-19.04.18:462][794]LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling. 
+[2021.07.31-19.04.18:627][794]LogUObjectHash: Compacting FUObjectHashTables data took   7.74ms
+[2021.07.31-19.04.18:668][794]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2021.07.31-19.04.19:240][794]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 64
+[2021.07.31-19.04.19:240][794]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 63
+[2021.07.31-19.04.19:240][794]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 62
+[2021.07.31-19.04.19:800][794]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 61
+[2021.07.31-19.04.19:800][794]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 60
+[2021.07.31-19.04.19:800][794]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 59
+[2021.07.31-19.04.19:800][794]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 58
+[2021.07.31-19.04.19:800][794]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 57
+[2021.07.31-19.04.19:800][794]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 56
+[2021.07.31-19.04.20:361][794]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 55
+[2021.07.31-19.04.20:361][794]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 54
+[2021.07.31-19.04.20:361][794]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 53
+[2021.07.31-19.04.20:361][794]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 52
+[2021.07.31-19.04.20:361][794]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 51
+[2021.07.31-19.04.20:361][794]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 50
+[2021.07.31-19.04.20:361][794]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 49
+[2021.07.31-19.04.20:361][794]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 48
+[2021.07.31-19.04.20:361][794]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 47
+[2021.07.31-19.04.20:870][794]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 46
+[2021.07.31-19.04.20:870][794]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 42
+[2021.07.31-19.04.20:870][794]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 38
+[2021.07.31-19.04.20:870][794]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 34
+[2021.07.31-19.04.20:870][794]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 30
+[2021.07.31-19.04.20:870][794]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 26
+[2021.07.31-19.04.20:870][794]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 22
+[2021.07.31-19.04.20:870][794]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 20
+[2021.07.31-19.04.20:870][794]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 18
+[2021.07.31-19.04.20:885][794]TextureStreamingBuild: Display: Compiling optional shaders took 2.223 seconds.
+[2021.07.31-19.04.20:957][794]LogUObjectHash: Compacting FUObjectHashTables data took   6.72ms
+[2021.07.31-19.04.21:055][794]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2021.07.31-19.04.21:157][794]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-19.04.21:158][794]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.04.21:593][797]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 14
+[2021.07.31-19.04.21:697][798]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 12
+[2021.07.31-19.04.22:888][810]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 10
+[2021.07.31-19.04.22:889][810]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 9
+[2021.07.31-19.04.22:915][810]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 8
+[2021.07.31-19.04.23:651][817]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2021.07.31-19.04.23:973][820]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 6
+[2021.07.31-19.04.23:973][820]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 5
+[2021.07.31-19.04.23:973][820]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 4
+[2021.07.31-19.04.24:063][821]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 3
+[2021.07.31-19.04.24:144][822]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2021.07.31-19.04.24:429][825]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 1
+[2021.07.31-19.04.35:055][287]BlueprintLog: New page: Compile House_2
+[2021.07.31-19.04.35:206][287]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2021.07.31-19.04.36:081][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.04.36:119][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.07.31-19.04.36:361][314]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_213464C794716A90F15115BBEDC5AB82A.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.04.36:363][314]LogFileHelpers: Saving map 'House_2' took 0.283
+[2021.07.31-19.04.36:381][314]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.04.36:381][314]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.04.37:329][353]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-19.04.37:329][353]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.04.38:898][414]BlueprintLog: New page: Compile House_3
+[2021.07.31-19.04.38:992][414]LogUObjectHash: Compacting FUObjectHashTables data took   5.49ms
+[2021.07.31-19.04.39:536][436]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_3" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.04.39:572][436]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.07.31-19.04.39:686][436]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_318DF3BFF4C0BC9ACE9021593B580785F.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap'
+[2021.07.31-19.04.39:687][436]LogFileHelpers: Saving map 'House_3' took 0.151
+[2021.07.31-19.04.39:703][436]AssetCheck: New page: Asset Save: House_3
+[2021.07.31-19.04.39:704][436]LogContentValidation: Display: Validating World /Game/Levels/House_3.House_3
+[2021.07.31-19.04.41:395][521]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-19.04.41:395][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.05.53:966][843]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/HUD_Textures/1993_Task_01.1993_Task_01
+[2021.07.31-19.05.54:147][843]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0021 seconds. Added 1 classes and 2 folders.
+[2021.07.31-19.06.44:294][313]BlueprintLog: New page: Compile HUD
+[2021.07.31-19.06.44:636][313]LogUObjectHash: Compacting FUObjectHashTables data took   7.04ms
+[2021.07.31-19.06.44:967][314]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/HUD" FILE="../../../../../../Projects/TL_Git/UE/Content/Scripts/HUD.uasset" SILENT=true
+[2021.07.31-19.06.45:083][314]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/HUDE09D24A3402D424755BBF2B99D6A4188.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Scripts/HUD.uasset'
+[2021.07.31-19.06.45:104][314]AssetCheck: New page: Asset Save: HUD
+[2021.07.31-19.06.45:104][314]LogContentValidation: Display: Validating Blueprint /Game/Scripts/HUD.HUD
+[2021.07.31-19.06.46:034][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/HUD" FILE="../../../../../../Projects/TL_Git/UE/Content/Scripts/HUD.uasset" SILENT=true
+[2021.07.31-19.06.46:128][361]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/HUDD853478F441C2DFBE5A56CB8C5D2E780.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Scripts/HUD.uasset'
+[2021.07.31-19.06.46:147][361]AssetCheck: New page: Asset Save: HUD
+[2021.07.31-19.06.46:147][361]LogContentValidation: Display: Validating Blueprint /Game/Scripts/HUD.HUD
+[2021.07.31-19.06.50:939][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/HUD" FILE="../../../../../../Projects/TL_Git/UE/Content/Scripts/HUD.uasset" SILENT=true
+[2021.07.31-19.06.51:032][572]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/HUD616FDAFF4174FA27BF129595A5E12FD1.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Scripts/HUD.uasset'
+[2021.07.31-19.06.51:050][572]AssetCheck: New page: Asset Save: HUD
+[2021.07.31-19.06.51:050][572]LogContentValidation: Display: Validating Blueprint /Game/Scripts/HUD.HUD
+[2021.07.31-19.06.54:336][706]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/House_2.House_2:PersistentLevel.House_2
+[2021.07.31-19.06.56:978][784]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-19.06.56:978][784]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.07.20:536][894]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.07.20:846][894]LogUObjectHash: Compacting FUObjectHashTables data took   7.22ms
+[2021.07.31-19.07.21:118][894]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2ABB19C864290FA9145BA02A2B77F1F40.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.07.21:120][894]LogFileHelpers: Saving map 'House_2' took 0.585
+[2021.07.31-19.07.21:170][894]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.07.21:170][894]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.07.26:174][173]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.31-19.07.26:183][173]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.31-19.07.26:183][173]PIE: New page: PIE session: The_House (Jul 31, 2021, 1:07:26 PM)
+[2021.07.31-19.07.26:184][173]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-19.07.26:187][173]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003317s)
+[2021.07.31-19.07.26:188][173]LogAIModule: Creating AISystem for world The_House
+[2021.07.31-19.07.26:188][173]LogPlayLevel: PIE: World Init took: (0.001372s)
+[2021.07.31-19.07.26:188][173]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.004917s)
+[2021.07.31-19.07.26:261][173]LogUObjectHash: Compacting FUObjectHashTables data took   3.54ms
+[2021.07.31-19.07.26:268][173]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2021.07.31-19.07.26:268][173]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.31-19.07.26:268][173]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.31-19.07.26:268][173]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.31-19.07.26:268][173]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.31-19.07.26:268][173]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.31-19.07.26:269][173]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.31-19.07.26:269][173]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.31-19.07.26:269][173]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.31-19.07.26:269][173]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.31-19.07.26:269][173]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.31-19.07.26:274][173]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.31-19.07.26:274][173]LogAudioMixer: Display: 1: FrontRight
+[2021.07.31-19.07.26:296][173]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2021.07.31-19.07.26:296][173]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.31-19.07.26:296][173]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.31-19.07.26:296][173]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.31-19.07.26:297][173]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.31-19.07.26:297][173]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.31-19.07.26:297][173]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.31-19.07.26:320][173]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.31-19.07.26:320][173]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.31-19.07.26:320][173]LogInit: FAudioDevice initialized.
+[2021.07.31-19.07.26:320][173]LogAudio: Display: Audio Device (ID: 34) registered with world 'The_House'.
+[2021.07.31-19.07.26:329][173]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.31-19.07.26:330][173]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.31-16.07.26
+[2021.07.31-19.07.26:330][173]LogWorld: Bringing up level for play took: 0.000494
+[2021.07.31-19.07.26:330][173]LogOnline: OSS: Creating online subsystem instance for: :Context_50
+[2021.07.31-19.07.26:334][173]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.31-19.07.26:334][173]PIE: Server logged in
+[2021.07.31-19.07.26:335][173]PIE: Play in editor total start time 0.153 seconds.
+[2021.07.31-19.09.55:351][245]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_2 1 1 0
+[2021.07.31-19.09.57:622][398]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 0 0 0
+[2021.07.31-19.09.57:675][399]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2021.07.31-19.11.45:439][427]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_3 1 1 0
+[2021.07.31-19.11.47:095][537]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_House_3.House_3:PersistentLevel.Door_Base12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.07.31-19.11.47:096][537]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_3 1 1 0
+[2021.07.31-19.12.00:594][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-19.12.00:594][527]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-19.12.00:597][527]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-19.12.00:597][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.12.00:610][527]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.31-19.12.00:636][527]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.12.00:656][527]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.31-19.12.00:659][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-19.12.00:660][527]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-19.12.00:681][527]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-19.12.00:720][527]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2021.07.31-19.12.00:839][528]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2021.07.31-19.12.00:862][528]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.07.31-19.12.11:867][167]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials/HUD_Textures/HUD_Tasks_2.HUD_Tasks_2
+[2021.07.31-19.13.02:188][580]BlueprintLog: New page: Compile House_2
+[2021.07.31-19.13.02:297][580]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2021.07.31-19.13.02:771][596]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.13.02:796][596]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.07.31-19.13.03:039][596]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2D43CA21F440CC59912436787BDA3B041.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.13.03:041][596]LogFileHelpers: Saving map 'House_2' took 0.270
+[2021.07.31-19.13.03:059][596]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.13.03:059][596]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.13.11:691][ 51]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.13.11:713][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.07.31-19.13.11:973][ 51]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2EE1E0DE049854365F1BDB4AB3AFBE009.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.13.11:975][ 51]LogFileHelpers: Saving map 'House_2' took 0.285
+[2021.07.31-19.13.11:991][ 51]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.13.11:991][ 51]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.13.31:952][160]BlueprintLog: New page: Compile House_2
+[2021.07.31-19.13.32:067][160]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2021.07.31-19.13.32:462][174]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.13.32:488][174]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.07.31-19.13.32:733][174]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2CD892DDD43D3FAF830189A8D2AD005CC.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.13.32:735][174]LogFileHelpers: Saving map 'House_2' took 0.274
+[2021.07.31-19.13.32:750][174]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.13.32:750][174]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.13.41:053][631]BlueprintLog: New page: Compile House_2
+[2021.07.31-19.13.41:168][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.07.31-19.13.41:587][648]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.13.41:612][648]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2021.07.31-19.13.41:853][648]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_23F04DC88449A523E912DF1890DC27CBE.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.13.41:855][648]LogFileHelpers: Saving map 'House_2' took 0.269
+[2021.07.31-19.13.41:869][648]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.13.41:869][648]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.13.51:530][168]BlueprintLog: New page: Compile House_2
+[2021.07.31-19.13.51:637][168]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.07.31-19.13.51:996][178]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.13.52:022][178]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.07.31-19.13.52:261][178]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_20B5557ED45778AE94C1A59B24404C701.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.13.52:263][178]LogFileHelpers: Saving map 'House_2' took 0.267
+[2021.07.31-19.13.52:278][178]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.13.52:278][178]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.14.03:616][786]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.14.03:636][786]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.07.31-19.14.03:887][786]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2AF5BA6724982721B31BC3880AB7E6461.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.14.03:888][786]LogFileHelpers: Saving map 'House_2' took 0.273
+[2021.07.31-19.14.03:905][786]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.14.03:905][786]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.14.30:392][274]BlueprintLog: New page: Compile House_2
+[2021.07.31-19.14.30:501][274]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.07.31-19.14.31:883][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.14.31:908][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.07.31-19.14.32:153][343]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2D53C299648FA3ADB570CBCB98F0311EF.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.14.32:155][343]LogFileHelpers: Saving map 'House_2' took 0.272
+[2021.07.31-19.14.32:170][343]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.14.32:170][343]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.14.35:272][509]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.07.31-19.14.35:322][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/HUD_Textures/Carta_02_Mat" FILE="../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/Carta_02_Mat.uasset" SILENT=true
+[2021.07.31-19.14.35:330][509]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/Carta_02_MatE84D92514A6CF500305BFB9C457DED2B.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/Carta_02_Mat.uasset'
+[2021.07.31-19.14.35:362][509]AssetCheck: New page: Asset Save: Carta_02_Mat
+[2021.07.31-19.14.35:362][509]LogContentValidation: Display: Validating Material /Game/Materials/HUD_Textures/Carta_02_Mat.Carta_02_Mat
+[2021.07.31-19.14.36:956][591]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.31-19.14.36:964][591]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.31-19.14.36:964][591]PIE: New page: PIE session: The_House (Jul 31, 2021, 1:14:36 PM)
+[2021.07.31-19.14.36:964][591]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-19.14.36:968][591]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003221s)
+[2021.07.31-19.14.36:969][591]LogAIModule: Creating AISystem for world The_House
+[2021.07.31-19.14.36:969][591]LogPlayLevel: PIE: World Init took: (0.001249s)
+[2021.07.31-19.14.36:969][591]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.004628s)
+[2021.07.31-19.14.36:992][591]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.07.31-19.14.36:994][591]LogAudio: Display: Creating Audio Device:                 Id: 35, Scope: Unique, Realtime: True
+[2021.07.31-19.14.36:994][591]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.31-19.14.36:994][591]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.31-19.14.36:994][591]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.31-19.14.36:994][591]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.31-19.14.36:994][591]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.31-19.14.36:994][591]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.31-19.14.36:994][591]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.31-19.14.36:994][591]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.31-19.14.36:995][591]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.31-19.14.36:995][591]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.31-19.14.37:000][591]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.31-19.14.37:000][591]LogAudioMixer: Display: 1: FrontRight
+[2021.07.31-19.14.37:020][591]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2021.07.31-19.14.37:020][591]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.31-19.14.37:020][591]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.31-19.14.37:020][591]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.31-19.14.37:021][591]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.31-19.14.37:021][591]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.31-19.14.37:021][591]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.31-19.14.37:044][591]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.31-19.14.37:044][591]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.31-19.14.37:044][591]LogInit: FAudioDevice initialized.
+[2021.07.31-19.14.37:044][591]LogAudio: Display: Audio Device (ID: 35) registered with world 'The_House'.
+[2021.07.31-19.14.37:052][591]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.31-19.14.37:053][591]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.31-16.14.37
+[2021.07.31-19.14.37:053][591]LogWorld: Bringing up level for play took: 0.000560
+[2021.07.31-19.14.37:053][591]LogOnline: OSS: Creating online subsystem instance for: :Context_51
+[2021.07.31-19.14.37:056][591]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.31-19.14.37:057][591]PIE: Server logged in
+[2021.07.31-19.14.37:058][591]PIE: Play in editor total start time 0.094 seconds.
+[2021.07.31-19.16.58:867][110]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_2 1 1 0
+[2021.07.31-19.17.00:347][208]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 0 0 0
+[2021.07.31-19.17.00:399][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.39ms
+[2021.07.31-19.17.56:850][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-19.17.56:850][422]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-19.17.56:851][422]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-19.17.56:852][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.17.56:865][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.31-19.17.56:890][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.17.56:912][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.07.31-19.17.56:912][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-19.17.56:913][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-19.17.56:934][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-19.17.56:941][422]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.07.31-19.17.57:016][423]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2021.07.31-19.17.57:040][423]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.07.31-19.18.26:864][ 33]BlueprintLog: New page: Compile House_2
+[2021.07.31-19.18.26:977][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2021.07.31-19.18.27:371][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.18.27:395][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.07.31-19.18.27:635][ 47]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2E2CE8EF1458231791058C2ACDCD25797.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.18.27:637][ 47]LogFileHelpers: Saving map 'House_2' took 0.267
+[2021.07.31-19.18.27:652][ 47]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.18.27:653][ 47]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.18.31:422][267]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.31-19.18.31:430][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.31-19.18.31:430][267]PIE: New page: PIE session: The_House (Jul 31, 2021, 1:18:31 PM)
+[2021.07.31-19.18.31:468][267]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-19.18.31:472][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003775s)
+[2021.07.31-19.18.31:473][267]LogAIModule: Creating AISystem for world The_House
+[2021.07.31-19.18.31:473][267]LogPlayLevel: PIE: World Init took: (0.001368s)
+[2021.07.31-19.18.31:474][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.005404s)
+[2021.07.31-19.18.31:497][267]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.07.31-19.18.31:502][267]LogAudio: Display: Creating Audio Device:                 Id: 36, Scope: Unique, Realtime: True
+[2021.07.31-19.18.31:502][267]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.31-19.18.31:502][267]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.31-19.18.31:502][267]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.31-19.18.31:502][267]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.31-19.18.31:502][267]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.31-19.18.31:502][267]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.31-19.18.31:502][267]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.31-19.18.31:502][267]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.31-19.18.31:503][267]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.31-19.18.31:503][267]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.31-19.18.31:507][267]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.31-19.18.31:507][267]LogAudioMixer: Display: 1: FrontRight
+[2021.07.31-19.18.31:527][267]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2021.07.31-19.18.31:527][267]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.31-19.18.31:527][267]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.31-19.18.31:527][267]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.31-19.18.31:528][267]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.31-19.18.31:528][267]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.31-19.18.31:528][267]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.31-19.18.31:548][267]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.31-19.18.31:548][267]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.31-19.18.31:548][267]LogInit: FAudioDevice initialized.
+[2021.07.31-19.18.31:548][267]LogAudio: Display: Audio Device (ID: 36) registered with world 'The_House'.
+[2021.07.31-19.18.31:560][267]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.31-19.18.31:561][267]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.31-16.18.31
+[2021.07.31-19.18.31:561][267]LogWorld: Bringing up level for play took: 0.000493
+[2021.07.31-19.18.31:561][267]LogOnline: OSS: Creating online subsystem instance for: :Context_52
+[2021.07.31-19.18.31:564][267]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.31-19.18.31:564][267]PIE: Server logged in
+[2021.07.31-19.18.31:565][267]PIE: Play in editor total start time 0.136 seconds.
+[2021.07.31-19.21.00:951][652]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_2 1 1 0
+[2021.07.31-19.21.02:739][776]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 0 0 0
+[2021.07.31-19.21.02:792][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.50ms
+[2021.07.31-19.22.16:285][401]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_3 1 1 0
+[2021.07.31-19.22.16:725][426]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_House_3.House_3:PersistentLevel.Door_Base12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.07.31-19.22.29:323][366]PIE: Warning: Mobility of /Game/Levels/UEDPIE_0_House_3.House_3:PersistentLevel.Door_Base12 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2021.07.31-19.22.40:392][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-19.22.40:392][208]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-19.22.40:394][208]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-19.22.40:395][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.22.40:404][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.31-19.22.40:429][208]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-19.22.40:452][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-19.22.40:452][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-19.22.40:453][208]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-19.22.40:481][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.07.31-19.22.40:598][209]LogPlayLevel: Display: Destroying online subsystem :Context_52
+[2021.07.31-19.22.40:623][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.07.31-19.23.32:536][ 31]BlueprintLog: New page: Compile House_2
+[2021.07.31-19.23.32:647][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.07.31-19.23.33:346][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.23.33:371][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.07.31-19.23.33:616][ 58]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2B7D1F69A4111C0B0548170948100FE05.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.23.33:618][ 58]LogFileHelpers: Saving map 'House_2' took 0.272
+[2021.07.31-19.23.33:634][ 58]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.23.33:634][ 58]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.24.18:947][574]BlueprintLog: New page: Compile House_2
+[2021.07.31-19.24.19:055][574]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.07.31-19.24.19:822][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.24.19:847][612]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2021.07.31-19.24.20:086][612]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2BE4CC1454AEB25ADECAD8F9A5101EB12.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-19.24.20:087][612]LogFileHelpers: Saving map 'House_2' took 0.266
+[2021.07.31-19.24.20:101][612]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-19.24.20:101][612]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-19.24.25:004][894]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/House_3.House_3:PersistentLevel.House_3
+[2021.07.31-19.25.08:186][174]BlueprintLog: New page: Compile House_3
+[2021.07.31-19.25.08:261][174]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.07.31-19.25.09:018][210]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_3" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-19.25.09:048][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2021.07.31-19.25.09:165][210]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_38D4494A742C89DB8B8CF64988989FB2C.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap'
+[2021.07.31-19.25.09:166][210]LogFileHelpers: Saving map 'House_3' took 0.148
+[2021.07.31-19.25.09:181][210]AssetCheck: New page: Asset Save: House_3
+[2021.07.31-19.25.09:181][210]LogContentValidation: Display: Validating World /Game/Levels/House_3.House_3
+[2021.07.31-19.26.15:664][167]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.07.31-19.26.25:715][167]LogMainFrame: Project does not require temp target
+[2021.07.31-19.26.25:728][167]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Win64/UE4Game.target
+[2021.07.31-19.26.25:906][174]UATHelper: Packaging (Windows (64-bit)): Running AutomationTool...
+[2021.07.31-19.26.27:504][267]UATHelper: Packaging (Windows (64-bit)): Parsing command line: -ScriptsForProject=A:/Projects/TL_Git/UE/Timeloop.uproject BuildCookRun -nocompileeditor -installed -nop4 -project=A:/Projects/TL_Git/UE/Timeloop.uproject -cook -stage -archive -archivedirectory="A:/Projects/Timeloop Backup/Deploy/D5" -package -ue4exe="A:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Win64 -clientconfig=Development -utf8output
+[2021.07.31-19.26.29:186][368]UATHelper: Packaging (Windows (64-bit)): Setting up ProjectParams for A:\Projects\TL_Git\UE\Timeloop.uproject
+[2021.07.31-19.26.29:897][410]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND STARTED **********
+[2021.07.31-19.26.29:914][411]UATHelper: Packaging (Windows (64-bit)): Running UE4Editor Cook for project A:\Projects\TL_Git\UE\Timeloop.uproject
+[2021.07.31-19.26.29:914][411]UATHelper: Packaging (Windows (64-bit)): Commandlet log file is A:\Program Files\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.07.31-16.26.29.txt
+[2021.07.31-19.26.29:914][411]UATHelper: Packaging (Windows (64-bit)): Running: A:\Program Files\Epic Games\UE_4.26\Engine\Binaries\Win64\UE4Editor-Cmd.exe A:\Projects\TL_Git\UE\Timeloop.uproject -run=Cook  -TargetPlatform=WindowsNoEditor -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="A:\Program Files\Epic Games\UE_4.26\Engine\Programs\AutomationTool\Saved\Cook-2021.07.31-16.26.29.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2021.07.31-19.26.33:412][624]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Running engine for game: Timeloop
+[2021.07.31-19.26.48:470][534]UATHelper: Packaging (Windows (64-bit)):   LogHAL: Display: Platform has ~ 8 GB [8540778496 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.07.31-19.26.48:907][557]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.07.31-19.26.48:956][560]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.07.31-19.26.48:956][560]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.07.31-19.26.48:956][560]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.07.31-19.26.48:956][560]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.07.31-19.26.48:956][560]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.07.31-19.26.48:956][560]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.07.31-19.26.48:957][560]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.07.31-19.26.48:957][560]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.07.31-19.26.48:957][560]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.07.31-19.26.48:957][560]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.07.31-19.26.49:116][570]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.07.31-19.26.49:116][570]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.07.31-19.26.49:148][572]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.07.31-19.26.49:196][575]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.07.31-19.26.49:212][576]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.07.31-19.26.49:229][577]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.07.31-19.26.49:261][579]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.07.31-19.26.49:325][583]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.07.31-19.26.49:357][585]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.07.31-19.26.49:406][588]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.07.31-19.26.49:406][588]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.07.31-19.26.49:424][589]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.07.31-19.26.49:440][590]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.07.31-19.26.49:473][592]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.07.31-19.26.49:520][595]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.07.31-19.26.49:569][598]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.07.31-19.26.49:569][598]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.07.31-19.26.49:586][599]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.07.31-19.26.49:602][600]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.07.31-19.26.49:636][602]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.07.31-19.26.49:653][603]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.07.31-19.26.49:653][603]UATHelper: Packaging (Windows (64-bit)):   LogTargetPlatformManager: Display: Building Assets For WindowsNoEditor
+[2021.07.31-19.26.49:766][610]UATHelper: Packaging (Windows (64-bit)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.07.31-19.26.52:880][800]UATHelper: Packaging (Windows (64-bit)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.07.31-19.26.53:621][844]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.07.31-19.26.53:837][856]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/exres/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.07.31-19.26.53:885][859]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.31-19.26.53:903][860]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/exres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=64.89MBs, RandomWriteSpeed=106.93MBs. Assigned SpeedClass 'Local'
+[2021.07.31-19.27.04:060][477]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.31-19.27.04:060][477]UATHelper: Packaging (Windows (64-bit)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.07.31-19.27.07:785][701]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.07.31-19.27.07:785][701]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Mobile HDR setting 1
+[2021.07.31-19.27.07:837][704]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Creating asset registry
+[2021.07.31-19.27.09:985][793]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Discovering localized assets for cultures: en
+[2021.07.31-19.27.09:985][793]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Clearing all cooked content for platform WindowsNoEditor
+[2021.07.31-19.27.09:985][793]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Sandbox cleanup took 0.092 seconds for platforms WindowsNoEditor
+[2021.07.31-19.27.12:636][800]UATHelper: Packaging (Windows (64-bit)):   LogCook: Warning: Unable to find package for cooking /Game/FirstPersonBP/Blueprints/FirstPersonGameMode
+[2021.07.31-19.27.12:636][800]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 0 Packages Remain 692 Total 692
+[2021.07.31-19.27.12:636][800]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=160, VirtualMemory=436MiB
+[2021.07.31-19.27.12:636][800]PackagingResults: Warning: Unable to find package for cooking /Game/FirstPersonBP/Blueprints/FirstPersonGameMode
+[2021.07.31-19.27.14:321][806]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Loading secondary levels for package 'The_House'
+[2021.07.31-19.27.15:658][810]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 160 Packages Remain 687 Total 847
+[2021.07.31-19.27.15:991][811]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 203 Packages Remain 645 Total 848
+[2021.07.31-19.27.17:005][814]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Loading secondary levels for package 'Import'
+[2021.07.31-19.27.18:028][817]UATHelper: Packaging (Windows (64-bit)):   LogMaterial: Display: Missing cached shader map for material Carta_02_Mat, compiling.
+[2021.07.31-19.27.18:243][821]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 553 Packages Remain 296 Total 849
+[2021.07.31-19.27.19:943][851]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 794 Packages Remain 55 Total 849
+[2021.07.31-19.27.27:622][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.07.31-19.27.27:956][ 74]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 794 Packages Remain 55 Total 849
+[2021.07.31-19.27.28:329][ 91]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] A:\Projects\TL_Git\UE\Content\Assets\final_objective.uasset: Failed to load '/Game/Assets/Path0Mat': Can't find file.
+[2021.07.31-19.27.28:329][ 91]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] A:\Projects\TL_Git\UE\Content\Assets\final_objective.uasset: Failed to load '/Game/Assets/Path0Mat': Can't find file.
+[2021.07.31-19.27.28:329][ 91]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] A:\Projects\TL_Git\UE\Content\Assets\final_objective.uasset: Failed to load '/Game/Assets/Path0Mat': Can't find file.
+[2021.07.31-19.27.28:329][ 91]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] A:\Projects\TL_Git\UE\Content\Assets\final_objective.uasset: Failed to load '/Game/Assets/Path0Mat': Can't find file.
+[2021.07.31-19.27.28:329][ 91]UATHelper: Packaging (Windows (64-bit)):   LogUObjectGlobals: Warning: [AssetLog] A:\Projects\TL_Git\UE\Content\Assets\final_objective.uasset: Failed to load '/Game/Assets/Path0Mat': Can't find file.
+[2021.07.31-19.27.28:329][ 91]PackagingResults: Warning: [AssetLog] A:\Projects\TL_Git\UE\Content\Assets\final_objective.uasset: Failed to load '/Game/Assets/Path0Mat': Can't find file.
+[2021.07.31-19.27.28:329][ 91]PackagingResults: Warning: [AssetLog] A:\Projects\TL_Git\UE\Content\Assets\final_objective.uasset: Failed to load '/Game/Assets/Path0Mat': Can't find file.
+[2021.07.31-19.27.28:329][ 91]PackagingResults: Warning: [AssetLog] A:\Projects\TL_Git\UE\Content\Assets\final_objective.uasset: Failed to load '/Game/Assets/Path0Mat': Can't find file.
+[2021.07.31-19.27.28:329][ 91]PackagingResults: Warning: [AssetLog] A:\Projects\TL_Git\UE\Content\Assets\final_objective.uasset: Failed to load '/Game/Assets/Path0Mat': Can't find file.
+[2021.07.31-19.27.28:329][ 91]PackagingResults: Warning: [AssetLog] A:\Projects\TL_Git\UE\Content\Assets\final_objective.uasset: Failed to load '/Game/Assets/Path0Mat': Can't find file.
+[2021.07.31-19.27.28:394][ 92]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cooked packages 849 Packages Remain 0 Total 849
+[2021.07.31-19.27.28:394][ 92]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=852, VirtualMemory=955MiB
+[2021.07.31-19.27.28:394][ 92]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Finishing up...
+[2021.07.31-19.27.28:432][ 93]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Saving BulkData manifest(s)...
+[2021.07.31-19.27.28:561][100]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done saving BulkData manifest(s)
+[2021.07.31-19.27.29:403][145]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2021.07.31-19.27.29:403][145]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2021.07.31-19.27.29:403][145]UATHelper: Packaging (Windows (64-bit)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2021.07.31-19.27.31:035][218]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2021.07.31-19.27.31:899][256]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 749, size is 1491.40kb
+[2021.07.31-19.27.31:899][256]UATHelper: Packaging (Windows (64-bit)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2021.07.31-19.27.32:240][271]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display:
+[2021.07.31-19.27.32:443][280]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Shader Code Stats: PCD3D_SM5
+[2021.07.31-19.27.32:443][280]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.07.31-19.27.32:443][280]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders: 3757, Total Shaders: 4213, Unique Shadermaps: 288
+[2021.07.31-19.27.32:443][280]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: Unique Shaders Size: 8.77mb, Total Shader Size: 9.51mb
+[2021.07.31-19.27.32:443][280]UATHelper: Packaging (Windows (64-bit)):   LogShaderLibrary: Display: =================
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Cook by the book total time in tick 13.718778s total time 24.761972
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Peak Used virtual 962 MiB Peak Used physical 989 MiB
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Hierarchy Timer Information:
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:   Root: 0.000s (0)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CleanSandbox: 0.092s (1)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.006s (1)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     CollectFilesToCook: 0.289s (1)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GenerateLongPackageName: 0.002s (1)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     TickCookOnTheSide: 13.704s (156465)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       PostLoadPackageFixup: 1.415s (360560)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       LoadPackageForCooking: 7.749s (849)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SavingPackages: 4.302s (46561)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.590s (168)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 1.412s (830)
+[2021.07.31-19.27.32:579][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 1.411s (681)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         SaveCookedPackage: 2.013s (849)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:           GEditorSavePackage: 1.970s (849)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             ConvertingBlueprints: 0.111s (849)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:             VerifyCanCookPackage: 0.010s (749)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.009s (849)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     FinalizePackageStore: 0.142s (1)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     GeneratingBlueprintAssets: 0.872s (1)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingCurrentIniSettings: 0.033s (1)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       ProcessingAccessedStrings: 0.008s (1)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:     SavingAssetRegistry: 2.471s (1)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       BuildChunkManifest: 0.915s (1)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveManifests: 0.361s (1)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       SaveRealAssetRegistry: 0.855s (1)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display:       WriteCookerOpenOrder: 0.003s (1)
+[2021.07.31-19.27.32:580][286]UATHelper: Packaging (Windows (64-bit)):   LogCook: Display: Done!
+[2021.07.31-19.27.32:607][287]UATHelper: Packaging (Windows (64-bit)):   LogSavePackage: Display: Took 0.015074s to verify the EDL loading graph.
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Misc Cook Stats
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ===============
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ShaderCompiler
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000001
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=74.566360
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.196878
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=48
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.066740
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=48
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Load
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPreloadedDependencies=577
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumInlineLoads=5
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesLoaded=353
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     LoadPackageTimeSec=10.598408
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakRequestQueueSize=674
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakLoadQueueSize=690
+[2021.07.31-19.27.34:562][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PeakSaveQueueSize=475
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.Save
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumPackagesSaved=849
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavePackageTimeSec=1.721398
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.284631
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.080646
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000870
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.004527
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.005039
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.001010
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.310472
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.368990
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.202803
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     MBWritten=305.896267
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Package.DiffTotal
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: UnversionedProperties
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedStructs=0
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     SavedMB=0
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Cook Profile
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ============
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0.CookWallTimeSec=59.816205
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=34.916410
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=24.836348
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=4.610325
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000047
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=17.902647
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=7.749508
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=2.013284
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=2.001294
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=1.400220
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.032955
+[2021.07.31-19.27.34:563][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.046966
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.009301
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Summary Stats
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =================
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHits    =      2637
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGets       =      2638
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.999621
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.894238
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.105383
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GetMissPct      =  0.000379
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHits    =         1
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPuts       =         1
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2021.07.31-19.27.34:564][371]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display:
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DDC Resource Stats
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: =======================================================================================================
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Streaming)                             2.25                   0.00             0        209.69
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: MaterialShader                                  1.16                   1.16             1          9.74
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.50                   0.50             0          3.44
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: StaticMesh                                      0.27                   0.27             0          5.36
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: NavCollision                                    0.19                   0.19             0          0.12
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: GlobalShader                                    0.02                   0.02             0          6.56
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             0         73.54
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogCookCommandlet: Display: DistanceField                                   0.00                   0.00             0          0.00
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2021.07.31-19.27.34:611][373]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: -----------------------------------
+[2021.07.31-19.27.34:879][385]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/FirstPersonBP/Blueprints/FirstPersonGameMode
+[2021.07.31-19.27.34:879][385]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: LogUObjectGlobals: Warning: [AssetLog] A:\Projects\TL_Git\UE\Content\Assets\final_objective.uasset: Failed to load '/Game/Assets/Path0Mat': Can't find file.
+[2021.07.31-19.27.34:879][385]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.07.31-19.27.34:879][385]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display: Success - 0 error(s), 6 warning(s)
+[2021.07.31-19.27.34:879][385]UATHelper: Packaging (Windows (64-bit)):   LogInit: Display:
+[2021.07.31-19.27.34:879][385]UATHelper: Packaging (Windows (64-bit)):   
+[2021.07.31-19.27.34:879][385]UATHelper: Packaging (Windows (64-bit)):   Execution of commandlet took:  27.13 seconds
+[2021.07.31-19.27.51:683][952]UATHelper: Packaging (Windows (64-bit)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2021.07.31-19.27.52:350][954]UATHelper: Packaging (Windows (64-bit)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.07.31-19.27.58:372][972]UATHelper: Packaging (Windows (64-bit)): Took 88,417646s to run UE4Editor-Cmd.exe, ExitCode=0
+[2021.07.31-19.27.58:705][973]UATHelper: Packaging (Windows (64-bit)): ********** COOK COMMAND COMPLETED **********
+[2021.07.31-19.27.58:705][973]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND STARTED **********
+[2021.07.31-19.27.58:705][973]UATHelper: Packaging (Windows (64-bit)): Creating Staging Manifest...
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditor.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorKeyBindings.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseEditorSettings.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BaseLightmass.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\BasePakFileRules.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Category.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Editor.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\EditorTutorials.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Engine.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\Keywords.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectExport.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PortableObjectImport.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\PropertyNames.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\RepairData.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\ToolTips.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Program Files\Epic Games\UE_4.26\Engine\Config\Localization\WordCount.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Projects\TL_Git\UE\Config\DefaultEditor.ini
+[2021.07.31-19.27.59:371][975]UATHelper: Packaging (Windows (64-bit)): Excluding config file A:\Projects\TL_Git\UE\Config\DefaultEditorPerProjectUserSettings.ini
+[2021.07.31-19.27.59:704][976]UATHelper: Packaging (Windows (64-bit)): Cleaning Stage Directory: A:\Projects\TL_Git\UE\Saved\StagedBuilds\WindowsNoEditor
+[2021.07.31-19.27.59:704][976]UATHelper: Packaging (Windows (64-bit)): Creating pak using staging manifest.
+[2021.07.31-19.28.00:038][977]UATHelper: Packaging (Windows (64-bit)): Executing 1 UnrealPak command...
+[2021.07.31-19.28.10:086][  7]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (0/1)
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)): Waiting for child processes to complete (1/1)
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)): Output from: A:\Projects\TL_Git\UE\Timeloop.uproject A:\Projects\TL_Git\UE\Saved\StagedBuilds\WindowsNoEditor\Timeloop\Content\Paks\Timeloop-WindowsNoEditor.pak -create="C:\Users\exres\AppData\Roaming\Unreal Engine\AutomationTool\Logs\A+Program+Files+Epic+Games+UE_4.26\PakList_Timeloop-WindowsNoEditor.txt" -cryptokeys=A:\Projects\TL_Git\UE\Saved\Cooked\WindowsNoEditor\Timeloop\Metadata\Crypto.json -order=A:\Projects\TL_Git\UE\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log -patchpaddingalign=2048 -platform=Windows  -multiprocess -abslog="C:\Users\exres\AppData\Roaming\Unreal Engine\AutomationTool\Logs\A+Program+Files+Epic+Games+UE_4.26\UnrealPak-Timeloop-WindowsNoEditor-2021.07.31-16.27.59.txt"
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading response file C:\Users\exres\AppData\Roaming\Unreal Engine\AutomationTool\Logs\A+Program+Files+Epic+Games+UE_4.26\PakList_Timeloop-WindowsNoEditor.txt
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2799 entries to add to pak file.
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Loading pak order file A:\Projects\TL_Git\UE\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log...
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Finished loading pak order file A:\Projects\TL_Git\UE\Build\WindowsNoEditor\FileOpenOrder\CookerOpenOrder.log.
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collecting files to add to pak file...
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Collected 2799 files in 0.02s.
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Creating pak A:\Projects\TL_Git\UE\Saved\StagedBuilds\WindowsNoEditor\Timeloop\Content\Paks\Timeloop-WindowsNoEditor.pak.
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogDerivedDataCache: Display: Performance to C:/Users/exres/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Added 2799 files, 346942532 bytes total, time 5.70s.
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PrimaryIndex size: 33702 bytes
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: PathHashIndex size: 56222 bytes
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: FullDirectoryIndex size: 104578 bytes
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Encryption - DISABLED
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)):   LogPakFile: Display: Unreal pak executed in 5.863506 seconds
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)): UnrealPak terminated with exit code 0
+[2021.07.31-19.28.13:765][ 18]UATHelper: Packaging (Windows (64-bit)): Copying NonUFSFiles to staging directory: A:\Projects\TL_Git\UE\Saved\StagedBuilds\WindowsNoEditor
+[2021.07.31-19.28.23:465][ 47]UATHelper: Packaging (Windows (64-bit)): ********** STAGE COMMAND COMPLETED **********
+[2021.07.31-19.28.23:465][ 47]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND STARTED **********
+[2021.07.31-19.28.23:465][ 47]UATHelper: Packaging (Windows (64-bit)): ********** PACKAGE COMMAND COMPLETED **********
+[2021.07.31-19.28.23:465][ 47]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND STARTED **********
+[2021.07.31-19.28.23:465][ 47]UATHelper: Packaging (Windows (64-bit)): Archiving to A:/Projects/Timeloop Backup/Deploy/D5
+[2021.07.31-19.28.31:816][ 72]UATHelper: Packaging (Windows (64-bit)): ********** ARCHIVE COMMAND COMPLETED **********
+[2021.07.31-19.28.31:816][ 72]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
+[2021.07.31-19.28.31:816][ 72]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
