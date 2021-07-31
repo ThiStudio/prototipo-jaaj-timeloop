@@ -2,12 +2,6 @@
 	"AssetInfoVersion": 1,
 	"ShaderCodeToAssets": [
 		{
-			"ShaderMapHash": "8DE83ECFC60FCB1D15B5BAFC5DA10DE49F28086E",
-			"Assets": [
-				"../../../Engine/Content/EditorMaterials/AssetViewer/M_SkyBox.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "F9AC30FABEAC784E70831BBD20944736F796FA37",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/PersonaFloorMat.uasset"
@@ -20,51 +14,41 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DA59E3F9447EC65312D6D854FE96C3EC75CF2113",
-			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/lambert1.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Materials/Blue.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Materials/C12.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Materials/Wood.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Meshes/Storeroom_textures.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture/Master_Bedroom_texture.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture/Kitchen_tasks_texture.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture/tv_room_texture.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture/Storeroom_textures.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture/Bathrooms_texture.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture/Kitchen_texture.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture/Bedroom_Boy_texture.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture/Dining_Room_and_Corridor_texture.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture/Guardrail_texture.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture/Dog_Task_texture.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "95A9C889EB13EA19CEECC7FDC65A0CA823E5266C",
 			"Assets": [
 				"../../../Engine/Content/EditorMaterials/LevelGridMaterial2.uasset"
 			]
 		},
 		{
+			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
+			"Assets": [
+				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "DA59E3F9447EC65312D6D854FE96C3EC75CF2113",
+			"Assets": [
+				"../../../../../../Projects/TL_Git/UE/Content/Meshes/Storeroom_textures.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1993/Bedroom_Boy_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1993/tv_room_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1993/Master_Bedroom_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1993/Kitchen_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1993/lambert23.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1993/Storeroom_textures.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1993/Bathrooms_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1993/christmas_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1993/lambert24.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1993/Dining_Room_and_Corridor_texture.uasset"
+			]
+		},
+		{
 			"ShaderMapHash": "C9C7244A501EB6BBF9DB21E42B52F5FF5D6804A1",
 			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/wall_05_kitchen_bathroom_storeroom_texture.uasset",
 				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/wall_03_and_04_texture.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/wall_01_and_02_texture.uasset",
 				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/roof_texture.uasset",
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/second_floor_rooms_texture.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "AD3058810825BB855176512149010DB9967A8631",
-			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/first_floor_and_stairs_texture.uasset"
-			]
-		},
-		{
-			"ShaderMapHash": "D6A01A71C110F778113B3763CFE03BB857C2656B",
-			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/second_floor_texture.uasset"
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/second_floor_rooms_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/90_second_floor_rooms_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/90_wall_03_and_04_texture.uasset"
 			]
 		},
 		{
@@ -74,9 +58,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "14CE13A45B418615F4C91002F447022392497C95",
+			"ShaderMapHash": "690CD3A87E6E3402C536CD8B3E76DB388D8CBC9A",
 			"Assets": [
-				"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset"
+				"../../../../../../Projects/TL_Git/UE/Content/Materials/Alpha.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EA6CD9360B5E8F7E61E54A141C832D8110351DEA",
+			"Assets": [
+				"../../../../../../Projects/TL_Git/UE/Content/Materials/Highlight.uasset"
 			]
 		},
 		{
@@ -388,12 +378,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5EB0E9214B12D20C714F8FAC77380E20870BC318",
-			"Assets": [
-				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
-			]
-		},
-		{
 			"ShaderMapHash": "3D7143AA809A47F1C7EEE53B644DCF054D0C92BA",
 			"Assets": [
 				"../../../Engine/Content/BufferVisualization/PostTonemapHDRColor.uasset"
@@ -547,6 +531,12 @@
 			"ShaderMapHash": "AA183A99EA3140216EA834319D300E20373F5E93",
 			"Assets": [
 				"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "5EB0E9214B12D20C714F8FAC77380E20870BC318",
+			"Assets": [
+				"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset"
 			]
 		},
 		{
@@ -721,9 +711,77 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EA6CD9360B5E8F7E61E54A141C832D8110351DEA",
+			"ShaderMapHash": "7DCEC805F3B065E18E30548E396F52A5BBE3CFF8",
 			"Assets": [
-				"../../../../../../Projects/TL_Git/UE/Content/Materials/Highlight.uasset"
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/90_first_floor_and_stairs_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/first_floor_and_stairs_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/Curtain.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/Master_Bedroom_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/Bathrooms_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/Kitchen_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/Guardrail_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Door.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/Storeroom_textures.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "AD3058810825BB855176512149010DB9967A8631",
+			"Assets": [
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/90_second_floor_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/door_frame_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/Dog_Task_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "C9B1EF103DB50CEEEC3C3284362F222A848EFF44",
+			"Assets": [
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/90_wall_01_and_02_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/90_wall_05_kitchen_bathroom_storeroom_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/wall_05_kitchen_bathroom_storeroom_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/wall_01_and_02_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "D6667BACC5262E7E282173986FF3DD3BFC89C2E2",
+			"Assets": [
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/House/second_floor_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "EBBCA58E46D7D35A989957EA4F65B128C9FDD91A",
+			"Assets": [
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/Trash_Task_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "1E3B6AAC2B579558550376AB56E283DFE7D7C640",
+			"Assets": [
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/Bedroom_Boy_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "0538346C338D7443DA61F56827D771C23A460D2F",
+			"Assets": [
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/tv_room_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "352893247A6E535C4CB2DEA3E93F028151879E7E",
+			"Assets": [
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/Kitchen_tasks_texture.uasset",
+				"../../../../../../Projects/TL_Git/UE/Content/Geometry/TimeLoop/Furniture_1978/Dining_Room_and_Corridor_texture.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "640633B9318E822714816B3605652574E8A057EA",
+			"Assets": [
+				"../../../../../../Projects/TL_Git/UE/Content/Materials/3DCam_Mat.uasset"
+			]
+		},
+		{
+			"ShaderMapHash": "B42C73DAA81FFE10E75609A236B122BF9DC3292D",
+			"Assets": [
+				"../../../../../../Projects/TL_Git/UE/Content/Materials/HUD_Textures/Carta_01_Mat.uasset"
 			]
 		}
 	]
