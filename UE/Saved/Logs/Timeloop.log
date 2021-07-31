@@ -3824,3 +3824,401 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.07.31-18.13.50:668][900]AssetCheck: New page: Asset Save: House_3
 [2021.07.31-18.13.50:668][900]LogContentValidation: Display: Validating World /Game/Levels/House_3.House_3
 [2021.07.31-18.13.58:255][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.07.31-18.19.51:505][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_3" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.19.51:541][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2021.07.31-18.19.51:671][822]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_3490D96EF4F9DDA60A21FDC9A1301101A.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap'
+[2021.07.31-18.19.51:672][822]LogFileHelpers: Saving map 'House_3' took 0.166
+[2021.07.31-18.19.51:690][822]AssetCheck: New page: Asset Save: House_3
+[2021.07.31-18.19.51:691][822]LogContentValidation: Display: Validating World /Game/Levels/House_3.House_3
+[2021.07.31-18.21.00:807][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_3" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.21.00:844][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.07.31-18.21.00:970][  6]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_34FFDBBFF4A384BCEA715A18252C79AE6.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap'
+[2021.07.31-18.21.00:971][  6]LogFileHelpers: Saving map 'House_3' took 0.164
+[2021.07.31-18.21.00:992][  6]AssetCheck: New page: Asset Save: House_3
+[2021.07.31-18.21.00:992][  6]LogContentValidation: Display: Validating World /Game/Levels/House_3.House_3
+[2021.07.31-18.21.04:082][187]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.31-18.21.04:090][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.31-18.21.04:090][187]PIE: New page: PIE session: The_House (Jul 31, 2021, 12:21:04 PM)
+[2021.07.31-18.21.04:090][187]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.21.04:094][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003619s)
+[2021.07.31-18.21.04:095][187]LogAIModule: Creating AISystem for world The_House
+[2021.07.31-18.21.04:095][187]LogPlayLevel: PIE: World Init took: (0.001355s)
+[2021.07.31-18.21.04:095][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.005171s)
+[2021.07.31-18.21.04:131][187]LogUObjectHash: Compacting FUObjectHashTables data took   4.58ms
+[2021.07.31-18.21.04:133][187]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2021.07.31-18.21.04:133][187]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.31-18.21.04:133][187]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.31-18.21.04:133][187]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.31-18.21.04:133][187]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.31-18.21.04:133][187]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.31-18.21.04:133][187]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.31-18.21.04:134][187]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.31-18.21.04:134][187]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.31-18.21.04:134][187]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.31-18.21.04:134][187]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.31-18.21.04:139][187]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.31-18.21.04:139][187]LogAudioMixer: Display: 1: FrontRight
+[2021.07.31-18.21.04:157][187]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2021.07.31-18.21.04:158][187]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.31-18.21.04:158][187]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.31-18.21.04:158][187]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.31-18.21.04:159][187]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.31-18.21.04:159][187]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.31-18.21.04:159][187]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.31-18.21.04:181][187]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.31-18.21.04:181][187]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.31-18.21.04:181][187]LogInit: FAudioDevice initialized.
+[2021.07.31-18.21.04:181][187]LogAudio: Display: Audio Device (ID: 28) registered with world 'The_House'.
+[2021.07.31-18.21.04:190][187]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.31-18.21.04:191][187]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.31-15.21.04
+[2021.07.31-18.21.04:191][187]LogWorld: Bringing up level for play took: 0.000518
+[2021.07.31-18.21.04:192][187]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2021.07.31-18.21.04:194][187]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.31-18.21.04:194][187]PIE: Server logged in
+[2021.07.31-18.21.04:195][187]PIE: Play in editor total start time 0.106 seconds.
+[2021.07.31-18.21.29:776][173]LogScript: Warning: Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill
+	House_C /Game/Levels/UEDPIE_0_House_1.House_1:PersistentLevel.House_C_20
+	Function /Game/Levels/UEDPIE_0_House_1.House_C:Func_Interact:070D
+[2021.07.31-18.21.29:776][173]PIE: Error: Blueprint Runtime Error: "Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill". Blueprint:  House_1 Function:  Func Interact Graph:  Func_Interact Node:  DestroyActor
+[2021.07.31-18.21.30:555][234]LogScript: Warning: Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill
+	House_C /Game/Levels/UEDPIE_0_House_1.House_1:PersistentLevel.House_C_20
+	Function /Game/Levels/UEDPIE_0_House_1.House_C:Func_Interact:070D
+[2021.07.31-18.21.30:555][234]PIE: Error: Blueprint Runtime Error: "Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill". Blueprint:  House_1 Function:  Func Interact Graph:  Func_Interact Node:  DestroyActor
+[2021.07.31-18.21.31:322][294]LogScript: Warning: Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill
+	House_C /Game/Levels/UEDPIE_0_House_1.House_1:PersistentLevel.House_C_20
+	Function /Game/Levels/UEDPIE_0_House_1.House_C:Func_Interact:070D
+[2021.07.31-18.21.31:323][294]PIE: Error: Blueprint Runtime Error: "Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill". Blueprint:  House_1 Function:  Func Interact Graph:  Func_Interact Node:  DestroyActor
+[2021.07.31-18.21.32:081][353]LogScript: Warning: Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill
+	House_C /Game/Levels/UEDPIE_0_House_1.House_1:PersistentLevel.House_C_20
+	Function /Game/Levels/UEDPIE_0_House_1.House_C:Func_Interact:070D
+[2021.07.31-18.21.32:081][353]PIE: Error: Blueprint Runtime Error: "Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill". Blueprint:  House_1 Function:  Func Interact Graph:  Func_Interact Node:  DestroyActor
+[2021.07.31-18.21.33:543][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.21.33:543][466]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.21.33:544][466]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-18.21.33:544][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.21.33:557][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.31-18.21.33:587][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.21.33:627][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.21.33:628][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.21.33:629][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.21.33:657][466]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2021.07.31-18.21.33:749][467]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2021.07.31-18.21.33:787][467]LogUObjectHash: Compacting FUObjectHashTables data took   4.40ms
+[2021.07.31-18.22.40:138][266]BlueprintLog: New page: Compile House_3
+[2021.07.31-18.22.40:234][266]LogUObjectHash: Compacting FUObjectHashTables data took   6.40ms
+[2021.07.31-18.22.40:608][281]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_3" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.22.40:647][281]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2021.07.31-18.22.40:766][281]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_3933BE67C46DAAB160F17AF92DAFCF210.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap'
+[2021.07.31-18.22.40:768][281]LogFileHelpers: Saving map 'House_3' took 0.161
+[2021.07.31-18.22.40:785][281]AssetCheck: New page: Asset Save: House_3
+[2021.07.31-18.22.40:785][281]LogContentValidation: Display: Validating World /Game/Levels/House_3.House_3
+[2021.07.31-18.22.41:955][349]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.31-18.22.41:963][349]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.31-18.22.41:963][349]PIE: New page: PIE session: The_House (Jul 31, 2021, 12:22:41 PM)
+[2021.07.31-18.22.41:963][349]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.22.41:965][349]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003296s)
+[2021.07.31-18.22.41:966][349]LogAIModule: Creating AISystem for world The_House
+[2021.07.31-18.22.41:967][349]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2021.07.31-18.22.41:967][349]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.004616s)
+[2021.07.31-18.22.42:005][349]LogUObjectHash: Compacting FUObjectHashTables data took   4.38ms
+[2021.07.31-18.22.42:006][349]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2021.07.31-18.22.42:006][349]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.31-18.22.42:006][349]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.31-18.22.42:006][349]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.31-18.22.42:006][349]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.31-18.22.42:006][349]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.31-18.22.42:006][349]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.31-18.22.42:006][349]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.31-18.22.42:006][349]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.31-18.22.42:006][349]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.31-18.22.42:006][349]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.31-18.22.42:011][349]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.31-18.22.42:011][349]LogAudioMixer: Display: 1: FrontRight
+[2021.07.31-18.22.42:030][349]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2021.07.31-18.22.42:030][349]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.31-18.22.42:030][349]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.31-18.22.42:030][349]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.31-18.22.42:031][349]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.31-18.22.42:031][349]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.31-18.22.42:031][349]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.31-18.22.42:050][349]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.31-18.22.42:050][349]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.31-18.22.42:050][349]LogInit: FAudioDevice initialized.
+[2021.07.31-18.22.42:050][349]LogAudio: Display: Audio Device (ID: 29) registered with world 'The_House'.
+[2021.07.31-18.22.42:058][349]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.31-18.22.42:059][349]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.31-15.22.42
+[2021.07.31-18.22.42:060][349]LogWorld: Bringing up level for play took: 0.000500
+[2021.07.31-18.22.42:060][349]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2021.07.31-18.22.42:063][349]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.31-18.22.42:063][349]PIE: Server logged in
+[2021.07.31-18.22.42:064][349]PIE: Play in editor total start time 0.103 seconds.
+[2021.07.31-18.22.46:130][649]LogScript: Warning: Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill
+	House_C /Game/Levels/UEDPIE_0_House_1.House_1:PersistentLevel.House_C_20
+	Function /Game/Levels/UEDPIE_0_House_1.House_C:Func_Interact:070D
+[2021.07.31-18.22.46:130][649]PIE: Error: Blueprint Runtime Error: "Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill". Blueprint:  House_1 Function:  Func Interact Graph:  Func_Interact Node:  DestroyActor
+[2021.07.31-18.22.46:741][698]LogScript: Warning: Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill
+	House_C /Game/Levels/UEDPIE_0_House_1.House_1:PersistentLevel.House_C_20
+	Function /Game/Levels/UEDPIE_0_House_1.House_C:Func_Interact:070D
+[2021.07.31-18.22.46:741][698]PIE: Error: Blueprint Runtime Error: "Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill". Blueprint:  House_1 Function:  Func Interact Graph:  Func_Interact Node:  DestroyActor
+[2021.07.31-18.22.47:682][774]LogScript: Warning: Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill
+	House_C /Game/Levels/UEDPIE_0_House_1.House_1:PersistentLevel.House_C_20
+	Function /Game/Levels/UEDPIE_0_House_1.House_C:Func_Interact:070D
+[2021.07.31-18.22.47:682][774]PIE: Error: Blueprint Runtime Error: "Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill". Blueprint:  House_1 Function:  Func Interact Graph:  Func_Interact Node:  DestroyActor
+[2021.07.31-18.22.48:354][828]LogScript: Warning: Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill
+	House_C /Game/Levels/UEDPIE_0_House_1.House_1:PersistentLevel.House_C_20
+	Function /Game/Levels/UEDPIE_0_House_1.House_C:Func_Interact:070D
+[2021.07.31-18.22.48:354][828]PIE: Error: Blueprint Runtime Error: "Attempted to access intrRádio via property intrRádio_EdGraph_20_RefProperty, but intrRádio is pending kill". Blueprint:  House_1 Function:  Func Interact Graph:  Func_Interact Node:  DestroyActor
+[2021.07.31-18.22.50:097][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.22.50:097][966]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.22.50:098][966]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-18.22.50:099][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.22.50:109][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.31-18.22.50:134][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.22.50:171][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.22.50:171][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.22.50:172][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.22.50:200][966]LogUObjectHash: Compacting FUObjectHashTables data took   4.55ms
+[2021.07.31-18.22.50:307][967]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2021.07.31-18.22.50:346][967]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.07.31-18.25.42:931][743]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_3" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.25.42:966][743]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.07.31-18.25.43:094][743]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_30D19AD7F47BC06186017B098431C96CE.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap'
+[2021.07.31-18.25.43:096][743]LogFileHelpers: Saving map 'House_3' took 0.166
+[2021.07.31-18.25.43:122][743]AssetCheck: New page: Asset Save: House_3
+[2021.07.31-18.25.43:122][743]LogContentValidation: Display: Validating World /Game/Levels/House_3.House_3
+[2021.07.31-18.25.58:173][600]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/House_1.House_1:PersistentLevel.House_1
+[2021.07.31-18.26.37:597][736]BlueprintLog: New page: Compile House_1
+[2021.07.31-18.26.37:760][736]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.07.31-18.26.38:156][750]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.26.38:199][750]LogUObjectHash: Compacting FUObjectHashTables data took   6.59ms
+[2021.07.31-18.26.38:531][750]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1A698AA7F4CB1BFCC01907F98B01E5833.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.31-18.26.38:533][750]LogFileHelpers: Saving map 'House_1' took 0.377
+[2021.07.31-18.26.38:554][750]AssetCheck: New page: Asset Save: House_1
+[2021.07.31-18.26.38:554][750]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.31-18.26.39:538][807]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.31-18.26.39:545][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.31-18.26.39:545][807]PIE: New page: PIE session: The_House (Jul 31, 2021, 12:26:39 PM)
+[2021.07.31-18.26.39:545][807]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.26.39:549][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003282s)
+[2021.07.31-18.26.39:550][807]LogAIModule: Creating AISystem for world The_House
+[2021.07.31-18.26.39:550][807]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2021.07.31-18.26.39:550][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.004734s)
+[2021.07.31-18.26.39:591][807]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.07.31-18.26.39:593][807]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2021.07.31-18.26.39:593][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.31-18.26.39:593][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.31-18.26.39:593][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.31-18.26.39:593][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.31-18.26.39:593][807]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.31-18.26.39:593][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.31-18.26.39:593][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.31-18.26.39:593][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.31-18.26.39:593][807]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.31-18.26.39:593][807]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.31-18.26.39:599][807]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.31-18.26.39:599][807]LogAudioMixer: Display: 1: FrontRight
+[2021.07.31-18.26.39:617][807]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2021.07.31-18.26.39:618][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.31-18.26.39:618][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.31-18.26.39:618][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.31-18.26.39:618][807]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.31-18.26.39:618][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.31-18.26.39:619][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.31-18.26.39:638][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.31-18.26.39:638][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.31-18.26.39:638][807]LogInit: FAudioDevice initialized.
+[2021.07.31-18.26.39:638][807]LogAudio: Display: Audio Device (ID: 30) registered with world 'The_House'.
+[2021.07.31-18.26.39:645][807]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.31-18.26.39:646][807]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.31-15.26.39
+[2021.07.31-18.26.39:647][807]LogWorld: Bringing up level for play took: 0.000671
+[2021.07.31-18.26.39:647][807]LogOnline: OSS: Creating online subsystem instance for: :Context_38
+[2021.07.31-18.26.39:650][807]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.31-18.26.39:650][807]PIE: Server logged in
+[2021.07.31-18.26.39:651][807]PIE: Play in editor total start time 0.106 seconds.
+[2021.07.31-18.27.02:238][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.27.02:238][600]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.27.02:240][600]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-18.27.02:240][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.27.02:249][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.31-18.27.02:278][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.27.02:319][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.27.02:319][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.27.02:320][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.27.02:349][600]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2021.07.31-18.27.02:414][601]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2021.07.31-18.27.02:455][601]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2021.07.31-18.27.07:054][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.27.07:090][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.07.31-18.27.07:437][864]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_178E493DA43DDA33DEFCE188C6BB68A58.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.31-18.27.07:439][864]LogFileHelpers: Saving map 'House_1' took 0.386
+[2021.07.31-18.27.07:457][864]AssetCheck: New page: Asset Save: House_1
+[2021.07.31-18.27.07:457][864]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.31-18.27.24:100][836]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/House_2.House_2:PersistentLevel.House_2
+[2021.07.31-18.27.35:662][475]BlueprintLog: New page: Compile House_2
+[2021.07.31-18.27.35:806][475]LogUObjectHash: Compacting FUObjectHashTables data took   6.81ms
+[2021.07.31-18.27.36:296][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.27.36:340][497]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2021.07.31-18.27.36:582][497]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2B497E8BD49838177C90C47984BA1C15D.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-18.27.36:584][497]LogFileHelpers: Saving map 'House_2' took 0.288
+[2021.07.31-18.27.36:602][497]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-18.27.36:603][497]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-18.27.37:553][551]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-18.27.37:553][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.27.58:250][709]BlueprintLog: New page: Compile House_1
+[2021.07.31-18.27.58:419][709]LogUObjectHash: Compacting FUObjectHashTables data took   5.64ms
+[2021.07.31-18.27.58:909][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.27.58:952][723]LogUObjectHash: Compacting FUObjectHashTables data took   4.84ms
+[2021.07.31-18.27.59:288][723]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_12C6FDB954922313BACEF4DA8061DCDB6.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.31-18.27.59:290][723]LogFileHelpers: Saving map 'House_1' took 0.381
+[2021.07.31-18.27.59:308][723]AssetCheck: New page: Asset Save: House_1
+[2021.07.31-18.27.59:308][723]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.31-18.28.00:286][774]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.31-18.28.00:294][774]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.31-18.28.00:294][774]PIE: New page: PIE session: The_House (Jul 31, 2021, 12:28:00 PM)
+[2021.07.31-18.28.00:294][774]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.28.00:298][774]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003187s)
+[2021.07.31-18.28.00:299][774]LogAIModule: Creating AISystem for world The_House
+[2021.07.31-18.28.00:299][774]LogPlayLevel: PIE: World Init took: (0.001268s)
+[2021.07.31-18.28.00:299][774]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.004615s)
+[2021.07.31-18.28.00:339][774]LogUObjectHash: Compacting FUObjectHashTables data took   4.68ms
+[2021.07.31-18.28.00:340][774]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2021.07.31-18.28.00:340][774]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.31-18.28.00:340][774]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.31-18.28.00:340][774]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.31-18.28.00:340][774]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.31-18.28.00:340][774]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.31-18.28.00:340][774]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.31-18.28.00:340][774]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.31-18.28.00:340][774]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.31-18.28.00:341][774]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.31-18.28.00:341][774]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.31-18.28.00:345][774]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.31-18.28.00:345][774]LogAudioMixer: Display: 1: FrontRight
+[2021.07.31-18.28.00:364][774]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2021.07.31-18.28.00:364][774]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.31-18.28.00:364][774]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.31-18.28.00:364][774]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.31-18.28.00:365][774]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.31-18.28.00:365][774]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.31-18.28.00:365][774]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.31-18.28.00:383][774]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.31-18.28.00:383][774]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.31-18.28.00:383][774]LogInit: FAudioDevice initialized.
+[2021.07.31-18.28.00:383][774]LogAudio: Display: Audio Device (ID: 31) registered with world 'The_House'.
+[2021.07.31-18.28.00:390][774]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.31-18.28.00:391][774]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.31-15.28.00
+[2021.07.31-18.28.00:391][774]LogWorld: Bringing up level for play took: 0.000508
+[2021.07.31-18.28.00:391][774]LogOnline: OSS: Creating online subsystem instance for: :Context_40
+[2021.07.31-18.28.00:394][774]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.31-18.28.00:394][774]PIE: Server logged in
+[2021.07.31-18.28.00:395][774]PIE: Play in editor total start time 0.102 seconds.
+[2021.07.31-18.28.01:990][871]LogBlueprintUserMessages: [House_C_22] Ping
+[2021.07.31-18.28.07:531][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.28.07:531][275]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.28.07:532][275]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-18.28.07:532][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.28.07:551][275]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.31-18.28.07:577][275]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.28.07:616][275]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.28.07:616][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.28.07:617][275]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.28.07:644][275]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.07.31-18.28.07:713][276]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2021.07.31-18.28.07:756][276]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.07.31-18.28.15:192][670]BlueprintLog: New page: Compile House_1
+[2021.07.31-18.28.15:356][670]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2021.07.31-18.28.15:798][682]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.28.15:838][682]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2021.07.31-18.28.16:163][682]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_12871E7FF458CD9ECE4690384BEFE7FE5.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.31-18.28.16:165][682]LogFileHelpers: Saving map 'House_1' took 0.367
+[2021.07.31-18.28.16:183][682]AssetCheck: New page: Asset Save: House_1
+[2021.07.31-18.28.16:183][682]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.31-18.28.46:687][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Scripts/Personagem" FILE="../../../../../../Projects/TL_Git/UE/Content/Scripts/Personagem.uasset" SILENT=true
+[2021.07.31-18.28.46:770][387]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/Personagem8CEDF1AE48042E156FD29A805CB52342.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Scripts/Personagem.uasset'
+[2021.07.31-18.28.46:798][387]AssetCheck: New page: Asset Save: Personagem
+[2021.07.31-18.28.46:798][387]LogContentValidation: Display: Validating Blueprint /Game/Scripts/Personagem.Personagem
+[2021.07.31-18.28.50:226][574]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.07.31-18.28.50:226][574]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-18.28.50:226][574]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.29.15:099][ 71]BlueprintLog: New page: Compile House_3
+[2021.07.31-18.29.15:262][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   6.08ms
+[2021.07.31-18.29.15:679][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_3" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.29.15:782][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2021.07.31-18.29.15:906][ 87]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_3D053269C4AA09F87E8B13895A37600B3.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_3.umap'
+[2021.07.31-18.29.15:907][ 87]LogFileHelpers: Saving map 'House_3' took 0.228
+[2021.07.31-18.29.15:925][ 87]AssetCheck: New page: Asset Save: House_3
+[2021.07.31-18.29.15:925][ 87]LogContentValidation: Display: Validating World /Game/Levels/House_3.House_3
+[2021.07.31-18.29.44:244][619]BlueprintLog: New page: Compile House_1
+[2021.07.31-18.29.44:394][619]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2021.07.31-18.29.44:992][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_1" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.29.45:027][639]LogUObjectHash: Compacting FUObjectHashTables data took   3.94ms
+[2021.07.31-18.29.45:354][639]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_1E7B93F064EF8F5F6B7B45199F9FCC2CA.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_1.umap'
+[2021.07.31-18.29.45:356][639]LogFileHelpers: Saving map 'House_1' took 0.365
+[2021.07.31-18.29.45:372][639]AssetCheck: New page: Asset Save: House_1
+[2021.07.31-18.29.45:372][639]LogContentValidation: Display: Validating World /Game/Levels/House_1.House_1
+[2021.07.31-18.29.46:890][721]LogTemp: Repeating last play command: Selected Viewport
+[2021.07.31-18.29.46:898][721]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.07.31-18.29.46:898][721]PIE: New page: PIE session: The_House (Jul 31, 2021, 12:29:46 PM)
+[2021.07.31-18.29.46:935][721]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.29.46:938][721]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003635s)
+[2021.07.31-18.29.46:940][721]LogAIModule: Creating AISystem for world The_House
+[2021.07.31-18.29.46:940][721]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2021.07.31-18.29.46:940][721]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/The_House.The_House to /Game/Levels/UEDPIE_0_The_House.The_House (0.005199s)
+[2021.07.31-18.29.46:970][721]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.07.31-18.29.46:972][721]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2021.07.31-18.29.46:972][721]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.07.31-18.29.46:972][721]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.07.31-18.29.46:972][721]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.07.31-18.29.46:972][721]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.07.31-18.29.46:972][721]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.07.31-18.29.46:972][721]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.07.31-18.29.46:972][721]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.07.31-18.29.46:972][721]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.07.31-18.29.46:972][721]LogAudio: Display: Using built-in audio occlusion.
+[2021.07.31-18.29.46:973][721]LogAudioMixer: Display: Initializing audio mixer.
+[2021.07.31-18.29.46:977][721]LogAudioMixer: Display: 0: FrontLeft
+[2021.07.31-18.29.46:977][721]LogAudioMixer: Display: 1: FrontRight
+[2021.07.31-18.29.46:996][721]LogAudioMixer: Display: Using Audio Device Alto-falantes (Realtek High Definition Audio)
+[2021.07.31-18.29.46:996][721]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.07.31-18.29.46:996][721]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.07.31-18.29.46:996][721]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.07.31-18.29.46:997][721]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.07.31-18.29.46:997][721]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.07.31-18.29.46:997][721]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.07.31-18.29.47:015][721]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.07.31-18.29.47:015][721]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.07.31-18.29.47:015][721]LogInit: FAudioDevice initialized.
+[2021.07.31-18.29.47:015][721]LogAudio: Display: Audio Device (ID: 32) registered with world 'The_House'.
+[2021.07.31-18.29.47:024][721]LogLoad: Game class is 'ThisGameMode_C'
+[2021.07.31-18.29.47:025][721]LogWorld: Bringing World /Game/Levels/UEDPIE_0_The_House.The_House up for play (max tick rate 0) at 2021.07.31-15.29.47
+[2021.07.31-18.29.47:025][721]LogWorld: Bringing up level for play took: 0.000492
+[2021.07.31-18.29.47:026][721]LogOnline: OSS: Creating online subsystem instance for: :Context_41
+[2021.07.31-18.29.47:028][721]LogLevel: ActivateLevel /Game/Levels/UEDPIE_0_House_1 1 1 0
+[2021.07.31-18.29.47:028][721]PIE: Server logged in
+[2021.07.31-18.29.47:029][721]PIE: Play in editor total start time 0.133 seconds.
+[2021.07.31-18.29.57:137][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.29.57:137][432]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_The_House
+[2021.07.31-18.29.57:138][432]LogWorld: UWorld::CleanupWorld for The_House, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-18.29.57:138][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.29.57:152][432]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.07.31-18.29.57:176][432]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.29.57:208][432]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.07.31-18.29.57:208][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.29.57:210][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.07.31-18.29.57:236][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2021.07.31-18.29.57:303][433]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2021.07.31-18.29.57:337][433]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2021.07.31-18.30.04:685][873]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Levels/House_2.House_2:PersistentLevel.House_2
+[2021.07.31-18.30.30:613][293]BlueprintLog: New page: Compile House_2
+[2021.07.31-18.30.30:742][293]LogUObjectHash: Compacting FUObjectHashTables data took   4.29ms
+[2021.07.31-18.30.31:236][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/House_2" FILE="../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.07.31-18.30.31:273][312]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2021.07.31-18.30.31:519][312]LogSavePackage: Moving '../../../../../../Projects/TL_Git/UE/Saved/House_2095D6A544B96E7AEDF0D6AA28423DAD7.tmp' to '../../../../../../Projects/TL_Git/UE/Content/Levels/House_2.umap'
+[2021.07.31-18.30.31:521][312]LogFileHelpers: Saving map 'House_2' took 0.286
+[2021.07.31-18.30.31:536][312]AssetCheck: New page: Asset Save: House_2
+[2021.07.31-18.30.31:536][312]LogContentValidation: Display: Validating World /Game/Levels/House_2.House_2
+[2021.07.31-18.30.33:498][425]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-18.30.33:498][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.30.34:182][458]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.07.31-18.30.34:182][458]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.07.31-18.30.40:340][802]LogUObjectHash: Compacting FUObjectHashTables data took   4.04ms
